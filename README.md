@@ -17,7 +17,7 @@ This repository contains my daily logs, reflections, and learnings from the acti
 
 None so far.
 
-## Day 1 - Research and Setting Goals
+## Day 1 - Research and Creating Goals
 
 ### Reflection
 
