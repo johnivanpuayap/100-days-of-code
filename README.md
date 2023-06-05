@@ -20,7 +20,7 @@ None so far
 ### Reflection
 I believe that for this challenge to succeed, I need to be able to set what my goals are first and make sure to research how will I be able to achieve those goals. After thinking about it for an hour, I decided that I need to improve my html and css skills, after I still kind of struggled especially on css on our project which is a Hospital Management System built on PHP. I want my mastery of it to be atleast on the mastery I have for Java. This is why I'm taking the Responsive Web Design Certification and continuing my progress on The Oding Project. I also wanted to prepare my self for the next semester so I have atleast a good head start for a gruelling semester especially that I'm a heavy procrastinator, so I decided that I want to finish the 100 Days of Python by Angela Yu and also start studying concepts for my Automata Theory and Formal Languages course. Lastly, I also wanted to start studying for the PhilNits Exam when I am not in the mood to code or when I don't have a lot of time. Hopefully I am able to finish this and not be like most of my other personal projects.
 
-### [Progress] (https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%201)
+### [Progress](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%201)
 1. Finalized my goals on this challenge
 2. Created the main repo that will serve as a record for my journey.
 3. Finished the Learn HTML by Building a Cat Photo App part of the Responsive Web Design Certification by FCC
