@@ -19,6 +19,8 @@ Throughout the 100-day challenge, my primary focus areas encompass several key g
 
 None so far.
 
-## [Day 1 - Creating Goals](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%201)
-## [Day 2 - Setting Up and Starting the Grind](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%202)
-## [Day 3](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%203)
+## Daily Logs
+
+### [Day 1 - Creating Goals](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%201)
+### [Day 2 - Setting Up and Starting the Grind](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%202)
+### [Day 3](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%203)
