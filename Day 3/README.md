@@ -1,4 +1,4 @@
-# Day 3: Doing Extra Work
+# Day 3: Going the Extra Mile
 
 ## Reflection
  Today was a productive day where I dedicated my efforts to aligning my progress with the Day number on the 100 Days of Python course. I successfully completed both Day 2 and Day 3 of the course, making steady progress in my Introduction to Python course. Additionally, I continued my studies in the Responsive Web Design Certification, expanding my knowledge and skills in web development.

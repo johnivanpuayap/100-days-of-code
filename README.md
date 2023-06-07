@@ -23,4 +23,4 @@ None so far.
 
 ### [Day 1: Starting the Journey](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%201)
 ### [Day 2: Setting Up and Starting the Grind](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%202)
-### [Day 3: Doing Extra Work](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%203)
+### [Day 3: Going the Extra Mile](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%203)
