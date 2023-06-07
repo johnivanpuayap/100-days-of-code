@@ -25,18 +25,20 @@ print("Your mission is to find the treasure.")
 
 #Write your code below this line 👇
 
-left_or_right = input("You're at a cross road. Where do you want to go? " + 'Type "left" or "right\n')
+left_or_right = input("You're at a cross road. Where do you want to go? " + 'Type "left" or "right\n').lower()
 
 if left_or_right == "left": 
-    wait_or_swim = input("You come to a lake. There is an island in the middle of the lake. " + 'Type "wait" for a boat. Type "swim" to swim across\n')
+    wait_or_swim = input("You come to a lake. There is an island in the middle of the lake. " + 'Type "wait" for a boat. Type "swim" to swim across\n').lower()
     if wait_or_swim =="wait":
-        colour = input("You arrive at the island unharmed. There is a house with 3 doors. One red, one yellow and one blue. Which colour do you choose?\n")
+        colour = input("You arrive at the island unharmed. There is a house with 3 doors. One red, one yellow and one blue. Which colour do you choose?\n").lower
         if colour == "red":
             print("It's a room full of fire. Game Over.")
         elif colour == "yellow":
             print("You found the treasure! You Win!")
-        else:
+        elif colour == "blue":
             print("You enter a room of beasts. Game Over.")
+        else:
+            print("You choose a door that doesn't exist. Game Over.")
     else:
         print("You get attacked by an angry trout. Game Over.")
 else:
