@@ -9,5 +9,5 @@ As for the final part of my coding session, I tackled the first exercise of Day 
 
 Looking back on the day, despite having a busy schedule, I'm satisfied with the progress I made. I acquired new knowledge, particularly about the random module in Python and that I remained committed to the coding challenge which is crucial for this to be successful. Consistency will continue to be the key to my success as I continue this coding journey, with 96 more days ahead of me.
 ## Progress
- - Finished Getting Started and Going Deeper
+ - Finished Getting Started and Going Deeper of the Introduction to Python Course by Sololearn
  - Finished Heads or Tails exercise
