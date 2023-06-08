@@ -1,4 +1,4 @@
-# Day 4 - Going at it even when I'm busy
+# Day 4: Balancing Busy Schedules and Coding Consistency
 
 ## Reflection
 Today was a busy day as I attended a wedding where I had the honor of being a groomsman. I actually contemplated skipping my coding practice for the day. However, I reminded myself that it was only day 4, and achieving mastery in coding, much like going to the gym, requires consistency and perseverance.
