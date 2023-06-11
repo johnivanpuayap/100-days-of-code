@@ -1,7 +1,7 @@
 # Day 7: Hangman Project
 
 ## Reflection
- Today was a busy day for me as my family and I visited the Saint Claire Monastery in Mondragon and went to Catarman to purchase vacation tickets. Consequently, I had limited time and felt a bit tired upon returning home.
+ Today was a busy day for me as my family and I visited the Saint Claire Monastery in Mondragon and went to Catarman to purchase tickets for our trip to Cebu on the 18th. Consequently, I had limited time and felt a bit tired upon returning home.
 
  Fortunately, Day 7 primarily focused on reviewing the lessons learned during the past week. The final project for today was a Hangman game. Here's how I approached it:
  1. Generate a random word.
