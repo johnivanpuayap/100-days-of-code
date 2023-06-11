@@ -27,3 +27,4 @@ None so far.
 ### [Day 4: Balancing Busy Schedules and Coding Consistency](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%204)
 ### [Day 5: Catching Up](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%205)
 ### [Day 6: Starting the Review](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%206)
+### [Day 7: Hangman Project](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%206)
