@@ -28,4 +28,4 @@ None so far.
 ### [Day 5: Catching Up](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%205)
 ### [Day 6: Starting the Review](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%206)
 ### [Day 7: Hangman Project](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%207)
-### [Day 8: New Week](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%208)
+### [Day 8: Making Significant Progress](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%208)

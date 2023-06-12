@@ -1,4 +1,4 @@
-# Day 8: Making Extra Progress
+# Day 8: Making Significant Progress
 ## Reflection
  Today, I started off by completing Day 8 of my Python learning journey. During this day, I focused on two main topics: the math module and keyword arguments. The main project for the day was Caesar's cipher.
 
