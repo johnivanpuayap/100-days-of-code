@@ -19,9 +19,9 @@
  To cap off the day, I successfully completed one of the five projects required for the Responsive Web Design Certificate. This particular project involved crafting a Survey Form to collect user data. It served as a valuable opportunity to review the concepts I had previously learned.
   
  Conclusion
- Today was a highly productive day, allowing me to expand my Python skills, make strides in various certification programs, and successfully accomplish a project. With 92 more days to go, I am excited to continue my learning journey.
+ Today was a highly productive day, allowing me to expand my Python skills, make strides in various certification programs, and successfully accomplish a project. 92 more days to go!
 
 ## Progress
  - Completed Day 8 of 100 Days of Python
  - Completed "Working with Data" and "Control Flow" sections of the Introduction to Python Course
- - Completed Survey Form 
+ - Completed Survey Form of the Responsive Web Design Certificate
