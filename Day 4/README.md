@@ -7,7 +7,10 @@ Upon returning home at 8:00 pm, I decided to try learning as much as possible fo
 
 As for the final part of my coding session, I tackled the first exercise of Day 4 called "Heads or Tails." This program randomly prints either "Heads" or "Tails." To achieve this, I utilized the randint function from the random module to generate a random number between 0 and 1. If the result was 0, the program printed "Tails," and if it was 1, it printed "Heads."
 
+Conclusion
+
 Looking back on the day, despite having a busy schedule, I'm satisfied with the progress I made. I acquired new knowledge, particularly about the random module in Python and that I remained committed to the coding challenge which is crucial for this to be successful. Consistency will continue to be the key to my success as I continue this coding journey, with 96 more days ahead of me.
+
 ## Progress
  - Finished Getting Started and Going Deeper of the Introduction to Python Course by Sololearn
  - Finished Heads or Tails exercise
