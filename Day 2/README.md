@@ -9,7 +9,8 @@
 
  Moreover, I delved into a PDF resource titled "12 Rules to Learn to Code" that provided valuable insights. I learned about the 20-minute rule, the habit of chunking, and the benefits of analyzing and debugging someone else's code. I highly recommend this resource, particularly to beginners and students. Additionally, I want to emphasize the importance of supplementing practical learning with reading books and watching coding videos. These additional sources, especially CodeAesthetic's videos, have greatly contributed to my growth throughout my learning journey.
 
- Conclusion:
+ Conclusion
+ 
  Overall, the second day of my personal development challenge was filled with setting up my environment, diving into Python and CSS coursework, and exploring insightful reading material. I'm excited to continue this journey of growth and development over the next 98 days.
 
 ## Progress
