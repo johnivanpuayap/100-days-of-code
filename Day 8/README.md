@@ -19,6 +19,7 @@
  To cap off the day, I successfully completed one of the five projects required for the Responsive Web Design Certificate. This particular project involved crafting a Survey Form to collect user data. It served as a valuable opportunity to review the concepts I had previously learned.
   
  Conclusion
+ 
  Today was a highly productive day, allowing me to expand my Python skills, make strides in various certification programs, and successfully accomplish a project. 92 more days to go!
 
 ## Progress
