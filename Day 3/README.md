@@ -9,9 +9,11 @@
 
  In my Responsive Web Design Certification, I completed the "Learn CSS Colors by Building a Set of Colored Markers" section. This module introduced me to various methods of defining color values using RGB, hexadecimal, and HSL. Additionally, I learned how to implement linear gradients using these different color value methods.
 
- To conclude the day, I made progress in the "Getting Started" section of the Introduction to Python Course on Sololearn.
-
- Overall, today was a long but highly productive day. I was in the zone, learning for about 4 to 5 hours allowing me to complete Day 2 and Day 3 of the 100 Days of Python course, make progress in the Introduction to Python course on Sololearn, and continue advancing in the Responsive Web Design Certification. I'm hoping that this momentum will carry forward for the next 97 days.
+ To finish the day, I made progress in the "Getting Started" section of the Introduction to Python Course on Sololearn.
+ 
+ Conclusion
+ 
+ Today was a long but highly productive day. I was in the zone, learning for about 4 to 5 hours allowing me to complete Day 2 and Day 3 of the 100 Days of Python course, make progress in the Introduction to Python course on Sololearn, and continue advancing in the Responsive Web Design Certification. I'm hoping that this momentum will carry forward for the next 97 days.
 
 ## Progress
  - Finished Day 2 of the 100 Days of Python
