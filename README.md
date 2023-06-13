@@ -16,8 +16,7 @@
  6. Start studying for my courses in the first semester of AY 2023-2024.
 
 ## Finished Projects
-
-None so far.
+ 1. [Introduction to Python on Sololearn](https://www.sololearn.com/certificates/CC-OESSQKOJ)
 
 ## Daily Logs
 
