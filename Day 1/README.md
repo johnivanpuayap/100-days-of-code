@@ -6,7 +6,7 @@
 
  Additionally, I recognize the significance of preparing myself for the upcoming semester and getting a head start on my studies. Acknowledging my tendency to procrastinate, I have devised a plan to complete Angela Yu's "100 Days of Python" course and delve into concepts relevant to my Automata Theory and Formal Languages course. Furthermore, during my leisure time or when I have limited coding hours, I will dedicate efforts to studying for the PhilNits Exam. It is my sincere hope that I can successfully accomplish these goals and avoid the fate of abandoning them, as I have experienced with some of my previous personal projects.
 
- Conclusion:
+ Conclusion
 
  Today marks the commencement of my personal development challenge, and I am filled with enthusiasm and determination. I am fully committed to achieving the goals I have set for myself and breaking free from the pattern of abandoning projects that has plagued me in the past. With renewed focus and discipline, I am confident in my ability to overcome challenges, maintain motivation, and make significant strides towards my objectives. Each day presents an opportunity for growth and progress, and I embrace this journey of self-improvement with great excitement.
 
