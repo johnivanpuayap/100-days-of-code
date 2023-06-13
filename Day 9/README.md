@@ -14,7 +14,7 @@
  After completing the auction project, I continued with the Introduction to Python Course. This course covered topics that weren't included in the 100 Days of Python challenge, such as list slices and DocStrings which are actually quite helpful. Since the introduction course only covered lists and functions, I plan to proceed to the Python Intermediate Course. However, I anticipate that it may be slightly more challenging and require more time.
 
  Conclusion
- 
+
  Today marks the completion of my first project or task in this coding challenge. I recognize that it's only an introductory course, and I still have a long way to go to become proficient in Python, which is my ultimate goal. Nevertheless, it's essential to celebrate small wins along the way. I have 91 more days to go, and I'm excited about the progress I've made so far!
 
 ## Progress
