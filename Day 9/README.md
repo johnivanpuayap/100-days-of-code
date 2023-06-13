@@ -11,11 +11,11 @@
 
  That's all there is to it. While it's also possible to find the highest bidder using a for loop, I discovered that max is more efficient since it's implemented in C. I acknowledge that for small input sizes, this efficiency gain may not be significant. However, I believe it's beneficial to be aware of more efficient approaches, similar to using a StringBuilder to concatenate strings in Java instead of the + operator. It's useful to practice and become familiar with such methods, especially since once you become a software engineer, you will be working on larger input sizess.
 
- After completing the auction project, I continued with the Introduction to Python Course. This course covered topics that weren't included in the 100 Days of Python challenge, such as list slices. Since the introduction course only covered lists and functions, I plan to proceed to the Python Intermediate Course. However, I anticipate that it may be slightly more challenging and require more time.
+ After completing the auction project, I continued with the Introduction to Python Course. This course covered topics that weren't included in the 100 Days of Python challenge, such as list slices and DocStrings which are actually quite helpful. Since the introduction course only covered lists and functions, I plan to proceed to the Python Intermediate Course. However, I anticipate that it may be slightly more challenging and require more time.
 
  Conclusion
  Today marks the completion of my first project or task in this coding challenge. I recognize that it's only an introductory course, and I still have a long way to go to become proficient in Python, which is my ultimate goal. Nevertheless, it's essential to celebrate small wins along the way. I have 91 more days to go, and I'm excited about the progress I've made so far!
 
 ## Progress
  - Completed Day 9 of 100 Days of Python
- - Completed Introduction to Python Course by Sololearn
+ - [Completed Introduction to Python Course by Sololearn](https://www.sololearn.com/certificates/CC-OESSQKOJ)
