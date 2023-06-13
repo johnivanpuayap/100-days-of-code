@@ -18,5 +18,6 @@
  Today marks the completion of my first project or task in this coding challenge. I recognize that it's only an introductory course, and I still have a long way to go to become proficient in Python, which is my ultimate goal. Nevertheless, it's essential to celebrate small wins along the way. I have 91 more days to go, and I'm excited about the progress I've made so far!
 
 ## Progress
- - Completed Day 9 of 100 Days of Python
+ ![09cdd449-ee30-4787-abb1-df6b768acdf8](https://github.com/johnivanpuayap/100-days-of-code/assets/26178408/18eb0cbb-6307-4531-bcba-d7fd483c2893)
  - [Completed Introduction to Python Course by Sololearn](https://www.sololearn.com/certificates/CC-OESSQKOJ)
+ - Completed Day 9 of 100 Days of Python
