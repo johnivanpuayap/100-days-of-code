@@ -12,6 +12,7 @@
  6. If the user managed to guess the full word before running out of lives, they won; otherwise, they lost.
  
  Conclusion
+ 
  Today presented a significant challenge for me, not because of the project itself, but due to my fatigue from traveling and my usual preference to relax on Sundays. Nonetheless, I was determined to complete this challenge, so I managed to finish Day 7 of the 100 Days of Python challenge. With 93 days remaining, I remain motivated to persevere and continue on this journey!
 
 ## Progress
