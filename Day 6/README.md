@@ -7,7 +7,9 @@
 
  Moving on to my progress in the "100 Days of Python" challenge, Day 6 focused on functions and while loops. Although I understand how they work, I still need to familiarize myself with the syntax. Unfortunately, for this particular day, I didn't have any files to upload as the exercises were on Reeborg's World. Nevertheless, I was able to practice and reinforce my understanding of functions and while loops.
 
- In conclusion, today's review session highlighted the need to revisit various topics, particularly Discrete Math, which I haven't touched upon in a long time. Considering the passing rate for the PhilNits Exam is around 30%, it is crucial to make an extra effort and start reviewing early, even if my plan is to take the exam in May or October 2024. Thankfully, I am currently highly motivated, and I have decided to exert more effort this school year. This first year of studying again from not studying anything for the past three years, was undeniably challenging, given my easily distracted nature and forgetfulness. With 94 days remaining, I am determined to make the most out of this challenge and achieve my goals.
+Conclusion
+
+ Today's review session highlighted the need to revisit various topics, particularly Discrete Math, which I haven't touched upon in a long time. Considering the passing rate for the PhilNits Exam is around 30%, it is crucial to make an extra effort and start reviewing early, even if my plan is to take the exam in May or October 2024. Thankfully, I am currently highly motivated, and I have decided to exert more effort this school year. This first year of studying again from not studying anything for the past three years, was undeniably challenging, given my easily distracted nature and forgetfulness. With 94 days remaining, I am determined to make the most out of this challenge and achieve my goals.
 
 ## Progress
  - Took a preliminary exam before I started my review on PhilNits
