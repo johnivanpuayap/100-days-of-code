@@ -29,3 +29,4 @@
 ### [Day 7: Hangman Project](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%207)
 ### [Day 8: Making Significant Progress](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%208)
 ### [Day 9: Completing the Introduction to Python Course on Sololearn](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%209)
+### [Day 10: ](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2010)
