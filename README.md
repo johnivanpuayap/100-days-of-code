@@ -7,7 +7,6 @@
  Throughout the 100-day challenge, my primary focus areas encompass several key goals. These include improving my HTML and CSS skills, expanding my proficiency in Python programming, developing a personal website with an accompanying blog, completing The Odin Project, preparing for the PhilNits exam, and familiarizing myself with the subjects covered in my upcoming semester's courses. By addressing these objectives, I aim to not only enhance my technical abilities but also broaden my understanding of various web development concepts and prepare for future academic endeavors.
 
 ## Goals
-
  1. Complete the Responsive Web Design Certification by FreeCodeCamp.org.
  2. Create a Personal Website with a blog.
  3. Finish The Odin Project.
@@ -29,4 +28,4 @@
 ### [Day 7: Hangman Project](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%207)
 ### [Day 8: Making Significant Progress](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%208)
 ### [Day 9: Completing the Introduction to Python Course on Sololearn](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%209)
-### [Day 10: ](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2010)
+### [Day 10: Embracing the Uncomfortable: Progress in Web Design and Python](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2010)
