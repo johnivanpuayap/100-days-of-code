@@ -19,14 +19,14 @@
 
 ## Daily Logs
 
-### [Day 1: Starting the Journey](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%201)
-### [Day 2: Setting Up and Starting the Grind](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%202)
-### [Day 3: Going the Extra Mile](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%203)
-### [Day 4: Balancing Busy Schedules and Coding Consistency](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%204)
-### [Day 5: Catching Up](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%205)
-### [Day 6: Starting the Review](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%206)
-### [Day 7: Hangman Project](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%207)
-### [Day 8: Making Significant Progress](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%208)
-### [Day 9: Completing the Introduction to Python Course on Sololearn](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%209)
+### [Day 1: Starting the Journey](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2001)
+### [Day 2: Setting Up and Starting the Grind](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2002)
+### [Day 3: Going the Extra Mile](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2003)
+### [Day 4: Balancing Busy Schedules and Coding Consistency](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2004)
+### [Day 5: Catching Up](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2005)
+### [Day 6: Starting the Review](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2006)
+### [Day 7: Hangman Project](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2007)
+### [Day 8: Making Significant Progress](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2008)
+### [Day 9: Completing the Introduction to Python Course on Sololearn](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2009)
 ### [Day 10: Embracing the Uncomfortable: Progress in Web Design and Python](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2010)
 ### [Day 11: First Capstone Project](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2011)
