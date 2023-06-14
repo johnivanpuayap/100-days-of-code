@@ -1,6 +1,6 @@
 # Day 11: First Capstone Project
 ## Reflection
- Today, 
+ Today, I am doing the First Capstone Project named BlackJack
 
  Here is how did it:
  1. Define the functions for the calculator operations.
@@ -13,11 +13,8 @@
  9. Add an else condition to exit the calculator when any other character is pressed. Ensure to set the variable controlling the while loop in the initial instance of the calculator function to false, allowing us to exit both the current calculator and the outer while loop.
  10. Add modulo operator for fun
 
- I decided to include an exit option as it was missing in the original project requirements and also incorporated the modulo operator.
 
  Conclusion:
-
- What a day it has been! I initially faced challenges with CSS, an area I've been keen on improving since last semester when I struggled a bit on one of my final project. Nevertheless, I firmly believe that practice and perseverance are the keys to success. Although I may never become an expert, developing decent CSS skills will benefit me, especially as I aspire to build a personal website and blog alongside my focus on back-end development. Afterward, I tackled Day 10 of the 100 Days of Python course, which went smoothly. I even expanded on the final project by adding more functions. With 90 more days ahead in this journey, I am excited to keep improving as I go through on this journey."
 
 ## Progress
  - Completed Day 11 of 100 Days of Python
