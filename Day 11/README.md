@@ -22,4 +22,4 @@
 
 ## Progress
  - Completed Day 11 of 100 Days of Python
- - Initiated the Blackjack Project ([Repository](https://github.com/johnivanpuayap/Blackjack))
+ - Initiated the Blackjack Repository ([Repository](https://github.com/johnivanpuayap/Blackjack))
