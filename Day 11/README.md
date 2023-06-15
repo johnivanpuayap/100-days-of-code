@@ -1,20 +1,25 @@
-# Day 11: First Capstone Project
+# Day 11: BlackJack Capstone Project
 ## Reflection
- Today, I am doing the First Capstone Project named BlackJack
+ Today was a busy day for me, but I wanted to ensure I made some progress on my 100 Days of Python journey. Despite feeling tired, I dedicated time to Day 11, which involved working on a BlackJack Capstone Project. My aim is to enhance the program by incorporating additional features beyond the main requirements. Specifically, I plan to enable the CPU to make decisions on hitting or standing, similar to how dealers do in casinos. Additionally, I want the CPU's choices to be influenced by various scenarios and probabilities.
 
- Here is how did it:
- 1. Define the functions for the calculator operations.
- 2. Define a dictionary named "operations" with operation symbols as keys and corresponding function names as values.
- 3. Write code to prompt the user for the first number, second number, and the desired operation.
- 4. Create a variable to store the function associated with the chosen operation by retrieving it from the "operations" dictionary based on the user input.
- 5. Perform the calculation using the selected function and display the result.
- 6. Modify the code to repeatedly ask for the second number until the user chooses to exit. Make sure to update the first number in each iteration.
- 8. Include an option to restart the calculation by incorporating the code within the function and calling it again when the user wants to start over.
- 9. Add an else condition to exit the calculator when any other character is pressed. Ensure to set the variable controlling the while loop in the initial instance of the calculator function to false, allowing us to exit both the current calculator and the outer while loop.
- 10. Add modulo operator for fun
+ To begin, I created a repository for the project and focused on the main requirements. Here's how I approached it
 
+ 1. Imported the logo from art.py and the random module. I also set the default value of an Ace card to 11 in the cards list.
+ 2. Developed a function to randomly retrieve a card.
+ 3. Established the main flow of the program, starting with asking the user if they want to play the game.
+ 4. Generated the user_cards and cpu_cards.
+ 5. Created a while loop to prompt the user for adding another card or not.
+ 6. Within the while loop, implemented an if statement to handle the following scenarios:
+    - If the user's score exceeds 21 and they don't have an Ace, they lose.
+    - If the user's score exceeds 21 but they have an Ace, subtract 10 from their score and replace the value of 11 with 1.
+    - If the score reaches 21, the loop stops.
+ 7. Once the loop ends, the scores are compared, and the game's result is displayed.
 
- Conclusion:
+ I was actually having fun doing this project and would actually like to continue and improve on this. I will definitely try and make it so that they are only using a certain number of decks like in the casino and probably some graphics. But anyway, this project was fun that even when I was tired all day, I actually had more energy after I started doing this
+
+ Conclusion
+ Today's focus was the BlackJack Capstone Project, and despite a busy schedule and fatigue, I pushed through and made notable progress. I look forward to continuing this project and further enhancing it, including features such as limited decks and potential graphics. Engaging with this project revitalized my energy and enthusiasm, reaffirming my commitment to this learning journey. 89 Days to go!
 
 ## Progress
  - Completed Day 11 of 100 Days of Python
+ - Initiated the Blackjack Project ([Repository](https://github.com/johnivanpuayap/Blackjack))
