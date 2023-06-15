@@ -14,7 +14,7 @@
  5. Begin reviewing for the PhilNits exam.
  6. Start studying for my courses in the first semester of AY 2023-2024.
 
-## Finished Projects
+## Finished Projects and Certificates
  1. [Introduction to Python on Sololearn](https://www.sololearn.com/certificates/CC-OESSQKOJ)
 
 ## Daily Logs
