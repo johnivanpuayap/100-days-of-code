@@ -31,5 +31,5 @@
 ### [Day 10: Embracing the Uncomfortable: Progress in Web Design and Python](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2010)
 ### [Day 11: First Capstone Project](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2011)
 ### [Day 12: Python Namespaces and Number Guessing Game](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2012)
-### [Day 13:](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2013)
-## [Day 14:](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2014)
+### [Day 13: Learning to Debug using a Debugger](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2013)
+## [Day 14: Higher-Lower Game and Setting up a Local Environment](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2014)
