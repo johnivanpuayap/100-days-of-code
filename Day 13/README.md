@@ -7,7 +7,7 @@
  Since it was a Saturday, I decided to dedicate some time to review my knowledge of Permutation and Combination. Strengthening my understanding of this mathematical concept was a productive way to conclude the day.
  
  Conclusion
- With 97 days remaining in the 100 Days of Python Course, I am motivated to continue my learning journey. Today's focus on debugging using a debugger was enlightening, and I look forward to applying this newfound knowledge in future projects. Additionally, my progress in the Responsive Web Design Certificate and review of Permutation and Combination further solidified my understanding in these areas. I am excited to tackle the challenges that lie ahead and make the most of the remaining days.
+ Today's focus on debugging using a debugger was enlightening, and I look forward to applying this from now on when working on personal and school projects. Additionally, I made progress in the Responsive Web Design Certificate and was also able review of Permutation and Combination further solidified my understanding as a review for my Philnits Exam. With 97 days remaining in the 100 Days of Python Course, I am excited to tackle the challenges that lie ahead and make the most of the remaining days
 
 ## Progress
  - Finished Day 13 of 100 Days of Python
