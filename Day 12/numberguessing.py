@@ -5,6 +5,16 @@ HARD = 5
 EASY = 10
 
 def set_difficulty(difficulty):
+    """
+    Assign the number of lives given a difficulty.
+    
+    Parameters:
+    difficulty: A string that could be 'easy' or 'hard'
+
+    Returns:
+    int: number of lives
+
+    """
     if difficulty == 'easy':
         return EASY
     elif difficulty == 'hard':
@@ -14,6 +24,12 @@ def set_difficulty(difficulty):
         return 0
 
 def check_answer(guess, number, lives):
+    """
+    Checks if the guess is equal to the number. 
+
+    Returns:
+    int: number of lives if not equal or -1 when equal
+    """
     if guess > 100 or guess < 1:
         print("Guess is out bounds. Try again.")
     elif guess > number:
