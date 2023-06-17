@@ -10,6 +10,6 @@
  Today's focus on debugging using a debugger was enlightening, and I look forward to applying this from now on when working on personal and school projects. Additionally, I made progress in the Responsive Web Design Certificate and was also able review of Permutation and Combination further solidified my understanding as a review for my Philnits Exam. With 97 days remaining in the 100 Days of Python Course, I am excited to tackle the challenges that lie ahead and make the most of the remaining days
 
 ## Progress
- - Finished Day 13 of 100 Days of Python
- - Finished Learn the CSS Box Model by Building a Rothko Painting on Responsive Web Design certification
+ - Completed Day 13 of 100 Days of Python
+ - Completed Learn the CSS Box Model by Building a Rothko Painting on Responsive Web Design certification
  - Reviewed Permutation and Combination for my Review
