@@ -1,6 +1,6 @@
 # Day 13: Learning to Debug using a Debugger
 ## Reflection
- Today was an exciting day as I delved into the topic of debugging in the 100 Days of Python Course. I had a strong desire to learn how to effectively use a debugger, and this section fulfilled that goal. Although there was no final project, I had the opportunity to work on three exercises specifically designed to enhance my debugging skills, resulting in a lighter workload for the day..
+ Today was an exciting day as I delved into the topic of debugging in the 100 Days of Python Course. I had a strong desire to learn how to effectively use a debugger, and this section fulfilled that goal. Although there was no final project, I had the opportunity to work on three exercises specifically designed to enhance my debugging skills, resulting in a lighter workload for the day.
 
  In addition to my Python course, I also made progress on the Responsive Web Design Certificate. I successfully completed the "Learn the CSS Box Model by Building a Rothko Painting" section, which provided valuable insights into border-radius, box-shadow, transform, and filter properties.
  
