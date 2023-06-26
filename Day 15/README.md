@@ -31,6 +31,8 @@
   7. Print the score after answering and when the quiz ends.
   8. Additional: Randomize the questions using the random module
 
+  Honestly, I still wanted to do more, but it's already 10:44 PM, and I want to ensure I get a good night's sleep during this break. Hence, I decided to conclude my day here.
+
   Conclusion:
   
   Looking back on Day 15, I am thrilled with the progress I made and the knowledge I acquired. Overcoming the initial hurdles of transitioning from a vacation mindset to active learning demonstrated my dedication and resilience. With 85 days remaining in my learning journey, I am optimistic about the opportunities ahead to expand my skills and explore new topics.
