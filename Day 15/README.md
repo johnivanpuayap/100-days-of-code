@@ -1,8 +1,8 @@
 # Day 15: Coming Back From Vacation
 ## Reflection
-  Today marked my return to learning after a refreshing vacation. Honestly, it was a struggle to regain momentum and find the energy to start. However, I simply turned on my computer and allowed myself to embrace a period of idleness until my curiosity sparked and propelled me forward. Once I initiated my learning session, the journey became smooth sailing, and my motivation was reignited.
+  Today marked my return to this challenge after a refreshing vacation. Honestly, it was a struggle to regain momentum and find the energy to start. However, I simply turned on my computer and allowed myself to embrace a period of idleness until my curiosity sparked and propelled me forward. Once I initiated my learning session, the journey became smooth sailing, and my motivation was reignited.
 
-  To begin, I revisited the Python Intermediate Course on Sololearn, focusing on the topic of dictionaries. Since I had already covered dictionaries on Day 9, it served as a valuable review of my knowledge. During this review, I encountered a key insight: dictionaries only accept immutable objects as keys. Additionally, I learned that the get() function in dictionaries retrieves the value associated with a given key, and if the key is not found, it returns a specified default value.
+  To begin, I revisited the Python Intermediate Course on Sololearn, focusing on the topic of dictionaries. Since I had already covered dictionaries on Day 9, it served as a valuable review of my knowledge. During this review, I encountered a key insight: dictionaries only accept immutable objects as keys. Additionally, I learned that the get() function with 2 integer parameters in dictionaries retrieves the value associated using the first integer, and if the key is not found, it returns the second integer.
 
   Subsequently, I delved into Day 16 of the 100 Days of Python challenge, which delved into Object-Oriented Programming (OOP) in Python. Thanks to my prior experience and certification in Java OOP, which was a mandatory course at my school, I possessed a solid foundation in OOP principles. Furthermore, I explored Python packages and familiarized myself with PyPi, a comprehensive repository of software for the Python programming language. Additionally, I acquired the knowledge to utilize the pip package manager in both the command line and Pycharm. The culmination of this section mirrored Day 15, as I revisited the Coffee Machine project, this time implementing it with an OOP approach.
 
@@ -21,7 +21,7 @@
 
   Since I completed the project ahead of schedule, I decided to undertake Day 17 as well, which continued the exploration of OOP. This particular section centered on creating classes. While the syntax differed significantly from what I was accustomed to, I dedicated time to familiarize myself with it and practiced extensively in creating Python classes. Although the syntax remained a slight concern, I am confident that continued practice will facilitate familiarity and ease.
 
-  Here is how I did the project:
+  Here is a breakdown of my approach to the project:
   1. Create the Questions Class
   2. Create a list of questions from the data.py provided
   3. Implement the Quizbrain Class and its next_question method
