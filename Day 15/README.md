@@ -1,31 +1,39 @@
 # Day 15: Coming Back From Vacation
 ## Reflection
-  Today was the first day I am doing this again from a vacation. Honestly, it was hard getting started and I had no energy but what I honestly just did was turn on the computer and do nothing and just wait till I got bored and just learning. Once I started, it was already smooth sailing and I was able to go and be motivated again.
+  Today marked my return to learning after a refreshing vacation. Honestly, it was a struggle to regain momentum and find the energy to start. However, I simply turned on my computer and allowed myself to embrace a period of idleness until my curiosity sparked and propelled me forward. Once I initiated my learning session, the journey became smooth sailing, and my motivation was reignited.
 
-  I started by doing the Python Intermediate Course by Sololearn where the topic is dictionaries. I already learned about dictionaries on Day 9, so it was honestly sort of like a review of my knowledge. What I did learn on this was that Only immutable objects can be used as keys to dictionaries and also that when there is two arguments in a get function of a dictionary, the first number will be the key and if they do not found a value with the associated key, the second number will be returned.
+  To begin, I revisited the Python Intermediate Course on Sololearn, focusing on the topic of dictionaries. Since I had already covered dictionaries on Day 9, it served as a valuable review of my knowledge. During this review, I encountered a key insight: dictionaries only accept immutable objects as keys. Additionally, I learned that the get() function in dictionaries retrieves the value associated with a given key, and if the key is not found, it returns a specified default value.
 
-  After, I started doing Day 16 of 100 Days of Python, this section covers Object-Oriented Programming (OOP) in Python. I already know about OOP and I actually have a certificate in Java OOP since our school required us to take it. I also learned about Python packages, learned how to use PyPi, a repository of software for the Python programming language and learned how to use pip to install packages in the command line as well as in Pycharm. The final project of this section was the same as the Day 15 Section which is an OOP version of the Coffee Machine project.
-  
+  Subsequently, I delved into Day 16 of the 100 Days of Python challenge, which delved into Object-Oriented Programming (OOP) in Python. Thanks to my prior experience and certification in Java OOP, which was a mandatory course at my school, I possessed a solid foundation in OOP principles. Furthermore, I explored Python packages and familiarized myself with PyPi, a comprehensive repository of software for the Python programming language. Additionally, I acquired the knowledge to utilize the pip package manager in both the command line and Pycharm. The culmination of this section mirrored Day 15, as I revisited the Coffee Machine project, this time implementing it with an OOP approach.
+
+  Here is a breakdown of my approach to the project:
+
+  1. Imported the necessary classes: Menu, MenuItem, CoffeeMaker, and MoneyMachine.
+  2. Created instances of Menu, CoffeeMaker, and MoneyMachine.
+  3. Established a while loop that continues until the user inputs "off".
+  4. Within the loop, prompted the user for their choice and employed conditional statements to handle different scenarios.
+  5. If the choice is "off", the program is exited.
+  6. If the choice is "report", I called the report methods of the CoffeeMaker and MoneyMachine classes to generate relevant reports.
+  7. For other choices, I utilized the Menu's find_drink() method to determine if the requested drink is available.
+  8. Ensured the drink is a MenuItem by performing a type check, disregarding it otherwise.
+  9. If the drink is a valid MenuItem, I verified if sufficient resources were available using the CoffeeMaker's is_resource_sufficient() method, and then utilized the MoneyMachine's make_payment() method to handle payment and calculate the sufficiency of funds.
+  10. If both conditions were met, the ordered menu item was prepared; otherwise, no action was taken.
+
+  Since I completed the project ahead of schedule, I decided to undertake Day 17 as well, which continued the exploration of OOP. This particular section centered on creating classes. While the syntax differed significantly from what I was accustomed to, I dedicated time to familiarize myself with it and practiced extensively in creating Python classes. Although the syntax remained a slight concern, I am confident that continued practice will facilitate familiarity and ease.
+
   Here is how I did the project:
-  1. Import the Classes(Menu, MenuItem, CoffeeMaker and MoneyMachine)
-  2. Create an instance of Menu, CoffeeMaker, and MoneyMachine
-  3. Create a while loop that only ends when the user inputs "off"
-  4. On the while loop, ask the user's choice and create if statement
-  5. If choice is "off", exit the program
-  6. Elif choice is "report", call the report methods of CoffeeMaker and MoneyMachine
-  7. Else, you use menu's find_drink method that will return an instance of MenuItem if it is on the menu
-  8. Check if drink is a MenuItem, if it is not a MenuItem, do nothing.
-  9. If drink is a Menu Item, check if the resources to make the coffee is sufficient using CoffeeMaker's is_resource_sufficient and use money_machine's make_payment to ask user to pay and calculate if the money received is sufficient.
-  11. If both are true, create the ordered menu item otherwise, do nothing.
-
-Since I was able to finish it early, I decided to do Day 17 section as well since it was still about OOP. This section focuses on creating classes. The syntax is very different from what I'm used to but I made sure to familiarize myself and practiced more creating classes in python, nonetheless, it's only the syntax that I am worried about but after some time I will definitely get used to it. The final project of this game was a Quiz project.
-
-  Here is how I did the project:
-  1. 
+  1. Create the Questions Class
+  2. Create a list of questions from the data.py provided
+  3. Implement the Quizbrain Class and its next_question method
+  4. Implement still_has_questions method that will be used to run the while loop
+  5. Implement check_answer method that checks if the user's answer is correct
+  6. Initialize score attribute to keep track of the score
+  7. Print the score after answering and when the quiz ends.
+  8. Additional: Randomize the questions using the random module
 
   Conclusion:
-
-  85 Days to Go
+  
+  Looking back on Day 15, I am thrilled with the progress I made and the knowledge I acquired. Overcoming the initial hurdles of transitioning from a vacation mindset to active learning demonstrated my dedication and resilience. With 85 days remaining in my learning journey, I am optimistic about the opportunities ahead to expand my skills and explore new topics.
 
 ## Progress
  - Finished Dictionaries and Dictionary Function lessons in Python Intermediate on Sololearn
