@@ -12,7 +12,10 @@
  3. Finish The Odin Project.
  4. Complete the "100 Days of Python" course by Angela Yu.
  5. Begin reviewing for the PhilNits exam.
- 6. Start studying for my courses in the first semester of AY 2023-2024.
+ 6. Complete Introduction to Python on Sololearn
+ 7. Complete Python Intermediate on Sololearn
+ 8. Complete Python Data Structures
+ 9. Start studying for my courses in the first semester of AY 2023-2024.
 
 ## Finished Projects and Certificates
  1. [Introduction to Python on Sololearn](https://www.sololearn.com/certificates/CC-OESSQKOJ)
