@@ -1,23 +1,30 @@
 # Day 16: Introduction to Turtle Graphics and Tuples 
 ## Reflection
-  I started today with Day 18, this section focuses on the built-in Turtle Graphics with a little bit of learning how to read documentations, using aliases and tuples. This is actually the first time since I started this where I am not familiar with what I'm learning but I was able to do it given that I already know how to read documentations since in school, we were only allowed to use C++ documentations for our lab activities. The challenges was actually not that easy, especially challenge 4 where it took me a while to realize my mistake that I need to use colormode to generate the random number and also I was using the object instead of the module to use the colormode() function. The final project was called Hirst Painting. Here is how I did mine
-  1. First is to install colorgram first using pip
-  2. Edited the file path on the extract so that it works
-  3. Create a random_color function that returns a random color from the colorgram output
-  4. Create a Turtle and Screen object, set the color, speed on the turtle object and set colormode to 255 on the screen object
-  5. Set the turtle's position at the top left
-  6. Create a while loop that loops by decreasing the y coordinate till it reaches the bottom edge of the screen
-  7. Create an inner loop that loops by increasing the x coordinate till it reaches the right edge of the screen
-  8. On the inner loop we will print a dot, and uses the random_color method to create it's color.
-  9. Set an exitonclick() for the screen
+  Today, I delved into Day 18 of the 100 Days of Python course, which introduced me to Turtle Graphics, reading documentation, using aliases, and tuples. This section was a bit unfamiliar to me, as I hadn't worked with Turtle Graphics before. However, my previous experience in reading documentation came in handy.
+
+  The challenges presented were not easy, particularly challenge 4. It took me a while to realize that I needed to use the colormode function to generate random numbers within the color range. I also made the mistake of using the object instead of the module to access the colormode() function. 
+  
+  The final project of the day was called "Hirst Painting," and here's how I approached it:
+
+  1. I started by installing the colorgram package using pip.
+  2. I adjusted the file path in the extract function to ensure it worked correctly.
+  3. I created a random_color function that returned a random color from the colorgram output.
+  4. I instantiated a Turtle and Screen object, set the color and speed on the turtle, and set the colormode to 255 on the screen.
+  5. I positioned the turtle at the top-left corner.
+  6. I created a while loop that decreased the y-coordinate until it reached the bottom edge of the screen.
+  7. Inside the outer loop, I created an inner loop that increased the x-coordinate until it reached the right edge of the screen.
+  8. Within the inner loop, I used the dot method to draw a dot and set its color using the random_color function.
+  9. Finally, I called exitonclick() on the screen to keep the drawing visible until the screen is clicked.
 
   This was actually a fun project, the hard part for me was making sure the colorgram works since I am not using Pycharm and trying to make the distance between the edges and the circles on both ends nearly equal and since the x and y coordinates is based on the center like a cartesian plane, i am actually not used to it anymore since I am used to 0,0 at the top right. 
 
   After that I also finished the Tuples part of the Python Intermediate certification. What I mainly learned is that values of tuples can't be change so can consider it like a final data structure.
 
   Conclusion
-  Today I completed one section in the 100 Days of Python but actually it was because there were more exercise compared to the previous one and the challenges and exercises are actually getting harder hence it takes me a long time especially that I am not familiar with it.
+  
+  Today, I completed the Day 18 section in the 100 Days of Python. With each passing day, the challenges and exercises become more demanding, requiring additional time and effort to tackle. Although the concepts introduced in Day 18 were unfamiliar to me, I pushed through and gained valuable experience in Turtle Graphics and working with tuples.
 
+  With 84 more days remaining in the 100 Days of Python challenge, I am excited about the knowledge and skills I will acquire along the way. The challenges and obstacles encountered thus far have only fueled my determination to continue learning and growing as a Python developer.
 
 ## Progress
  - Completed Day 18 of 100 Days of Python
