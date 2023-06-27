@@ -21,11 +21,11 @@
   After that I also finished the Tuples part of the Python Intermediate certification. What I mainly learned is that values of tuples can't be change so can consider it like a final data structure.
 
   Conclusion
-  
+
   Today, I completed the Day 18 section in the 100 Days of Python. With each passing day, the challenges and exercises become more demanding, requiring additional time and effort to tackle. Although the concepts introduced in Day 18 were unfamiliar to me, I pushed through and gained valuable experience in Turtle Graphics and working with tuples.
 
   With 84 more days remaining in the 100 Days of Python challenge, I am excited about the knowledge and skills I will acquire along the way. The challenges and obstacles encountered thus far have only fueled my determination to continue learning and growing as a Python developer.
 
 ## Progress
  - Completed Day 18 of 100 Days of Python
- - Finished Tuples and Tuples Unpacking lesson in Python Intermediate on Sololearn
+ - Finished Tuples and Tuples Unpacking lessons in Python Intermediate on Sololearn
