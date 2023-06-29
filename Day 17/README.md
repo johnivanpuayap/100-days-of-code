@@ -6,5 +6,5 @@
 
 
 ## Progress
- - Completed Day 18 of 100 Days of Python
+ - Completed Day 19 of 100 Days of Python
  - Finished Sets lesson in Python Intermediate on Sololearn
