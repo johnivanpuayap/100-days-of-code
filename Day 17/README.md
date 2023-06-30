@@ -1,35 +1,38 @@
 # Day 17
 ## Reflection
-  I actually just had a 2 day break because I attended the funeral of my lola's sister. Anyway, I started today by completing day 19 of 100 Days of Python. This section delves more about turtle graphics, event listeners and also state and multiple instances. I actually learned alot on this Day like functions as inputs which is a concept I am not familiar yet.
+  I just had a 2-day break because I attended my Lola's sister's funeral. Nonetheless, I started today by completing Day 19 of the 100 Days of Python challenge. This section delves more into turtle graphics, event listeners, and working with state and multiple instances. I learned a lot today, particularly about functions as inputs, which is a concept I wasn't familiar with before.
 
   This section has two final projects, the first one is an etch-a-sketch app using turtle graphics and the second one is a turtle race betting app.
 
-  Here is how I did the etch-a-sketch app:
-  1. Import Turtle and Screen from the turtle module
-  2. Create a Turtle and Screen object
-  3. Create functions move_forward, move_backward, turn_left, turn_right
-  4. Make the screen listen by using the listen() function
-  5. Add keylisteners for letters w, a, s, d where the keylisterner for w will call the move_forward function, s will call the move_backward function, a for turn_left and d for turn_right
-  6. Create a function called clear_drawing that uses the clear function of turtle to clear the drawings, the penup so that it doesn't draw when the turtle is move, the home function to make the turtle return to its default position.
-  7. Since, the letters are case-sensitive, create the same kind of keylistener that the lowercase have for its uppercase.
+  Here's how I implemented the Etch-a-Sketch app:
+
+  1. Imported the Turtle and Screen modules from the turtle module.
+  2. Created Turtle and Screen objects.
+  3. Defined functions for moving the turtle forward, moving it backward, turning left, and turning right.
+  4. Made the screen listen for key events using the listen() function.
+  5. Added key listeners for the letters 'w', 'a', 's', and 'd', where 'w' triggers the move_forward function, 's' triggers the move_backward function, 'a' triggers the turn_left function, and 'd' triggers the turn_right function.
+  6. Created a function called clear_drawing that uses the turtle's clear() function to clear the drawings, sets the pen to the up position to prevent drawing, and returns the turtle to its default position using the home() function.
+  7. Since the key listeners are case-sensitive, I added additional key listeners for the uppercase versions of the lowercase letters.
   
-  Here is how I did the turtle race betting app:
-  1. Import Turtle and Screen from the turtle module
-  2. Create a Turtle and Screen object
-  3. Create a variable named left_edge and the right_edge that is calculated using screen.width_size/2
-  4. Create a function named create_turtles that generates a turtle and returns a list of turtles
-  5. Create a function to start the race called start race
-  6. On the start_race function, Move the turtles to their starting position with left edge as the x position and the y position is 50 units apart from each other
-  7. Create a while loop
-  8. On the while loop, use the turtle's forward function to move the turtles but used the randomint() function of the random module to randomized the units it will move forward
-  9. Create an if statement to check if someone reached the right_edge
-  10. When a turtle whens, we will break the while loop and call the declare_winner function that accepts a string that is the winner
-  11. Define the declare_winner function and it will print the winner using an f-string
-  12. Add a prompt using textinput to ask user who they think will win
-  13. Modify the declare winner function so that it will compare first if the user's bet is the same as winner and store it in the result variable
-  14. Modify the f-string to also show the result variable
-  15. Add an error-handling where it will only proceed when the user_input is a valid color
-  16. Add titles
+  For the turtle race betting app, I followed these steps:
+
+  1. Imported the Turtle and Screen modules from the turtle module.
+  2. Created Turtle and Screen objects.
+  3. Defined variables named left_edge and right_edge, with right_edge calculated as half of the screen width using screen.width_size/2.
+  4. Created a function named create_turtles that generates turtles and returns a list of turtles.
+  5. Created a function named start_race to initiate the race.
+  6. Inside the start_race function, positioned the turtles at their starting positions with the left_edge as the x position and spaced them 50 units apart on the y-axis.
+  7. Implemented a while loop.
+  8. Inside the while loop, used the turtle's forward function to move the turtles, with the number of units randomized using the random.randint() function from the random module.
+  9. Added an if statement to check if any turtle has reached or go beyond the right_edge.
+  10. If a turtle wins, the while loop is broken, and the declare_winner function is called with the winning turtle's color as an argument.
+  11. Defined the declare_winner function to print the winner using an f-string.
+  12. Added a prompt using textinput to ask the user who they think will win.
+  13. Modified the declare_winner function to compare the user's bet with the winner and stored the result in a variable called result.
+  14. Modified the f-string to also display the result variable.
+  15. Implemented error handling to only proceed if the user's input is a valid color.
+  16. Added a title on the Screen
+  17. Added docstrings to functions for improved code documentation.
 
   Conclusion
 
