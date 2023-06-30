@@ -38,4 +38,4 @@
 ## [Day 14: Higher-Lower Game and Setting up a Local Environment](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2014)
 ## [Day 15: Coming Back From Vacation](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2015)
 ## [Day 16: Introduction to Turtle Graphics and Tuples ](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2016)
-## [Day 17: More Turtle Graphics and Higher Order Function](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2017)
+## [Day 17: Turtle Graphics, Collection Types and CSS Flexbox](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2017)
