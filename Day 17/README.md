@@ -23,7 +23,11 @@
   7. On the start_race function, create a while loop
   8. On the while loop, use the turtle's forward function to move the turtles but used the randomint() function of the random module to randomized the units it will move forward
   9. Create an if statement to check if someone reached the right_edge
-  10. When a turtle whens, we will break the while loop and call the declare_winner function and just 
+  10. When a turtle whens, we will break the while loop and call the declare_winner function that accepts a string that is the winner
+  11. Define the declare_winner function and it will print the winner using an f-string
+  12. Add a prompt using textinput to ask user who they think will win
+  13. Modify the declare winner function so that it will compare first if the user's bet is the same as winner and store it in the result variable
+  14. Modify the f-string to also show the result variable
 
 
   Conclusion
