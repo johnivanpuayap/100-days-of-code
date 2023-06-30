@@ -25,7 +25,7 @@ def start_race(all_turtles):
 
     while is_race_on:
         for turtle in all_turtles:
-            turtle.forward(random.randint(1, 20))
+            turtle.forward(random.randint(0, 10))
             if turtle.xcor() >= left_edge:
                 declare_winner(turtle.pencolor())
                 is_race_on = False

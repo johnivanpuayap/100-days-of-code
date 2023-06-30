@@ -36,7 +36,9 @@
 
   After that, I finished the day by completing the collecting types module of the Python Intermediate course. I studied about sets and list comprehensions. I also learned alot on this lessons like on the list comprehension but still theree are some parts that was not covered in the course that I was curious about, so what I did was also get some research about it like the difference between sets, dictionaries and lists, operations in sets, etc. The last part of the module was the quiz, which was not that hard and I was able to pass it.
 
+  
   Conclusion
+  
   
 
 ## Progress
