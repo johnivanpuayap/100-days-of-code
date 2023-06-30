@@ -17,10 +17,10 @@
   1. Import Turtle and Screen from the turtle module
   2. Create a Turtle and Screen object
   3. Create a variable named left_edge and the right_edge that is calculated using screen.width_size/2
-  4. Create the six turtles for the different colors
-  5. Move the turtles to their starting position with left edge as the x position and the y position is 50 units apart from each other6
-  6. Create a function to start the race called start race
-  7. On the start_race function, create a while loop
+  4. Create a function named create_turtles that generates a turtle and returns a list of turtles
+  5. Create a function to start the race called start race
+  6. On the start_race function, Move the turtles to their starting position with left edge as the x position and the y position is 50 units apart from each other
+  7. Create a while loop
   8. On the while loop, use the turtle's forward function to move the turtles but used the randomint() function of the random module to randomized the units it will move forward
   9. Create an if statement to check if someone reached the right_edge
   10. When a turtle whens, we will break the while loop and call the declare_winner function that accepts a string that is the winner
@@ -29,7 +29,7 @@
   13. Modify the declare winner function so that it will compare first if the user's bet is the same as winner and store it in the result variable
   14. Modify the f-string to also show the result variable
   15. Add an error-handling where it will only proceed when the user_input is a valid color
-
+  16. Add titles
 
   Conclusion
 

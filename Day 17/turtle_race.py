@@ -1,103 +1,72 @@
 from turtle import Turtle, Screen
 import random
 
+colors = ['red', 'orange', 'yellow', 'green', 'blue', 'violet']
+
 def declare_winner(winner):
+    """Prints the result of the bet and the winner of the race. Accept a string parameter that will be declared as the winner"""
     if winner == user_bet:
-        result = "You win"
+        result = "YOU WIN!"
     else:
-        result = "You lose"
+        result = "YOU LOSE!"
     
-    print(f"{result}.The winner is the {winner} turtle!")
+    print(f"{result} The winner is the {winner} turtle!")
 
-def start_race():
-    while True:
-        red.forward(random.randint(1, 20))
-        green.forward(random.randint(1, 20))
-        blue.forward(random.randint(1, 20))
-        yellow.forward(random.randint(1, 20))
-        orange.forward(random.randint(1, 20))
-        violet.forward(random.randint(1, 20))
+def start_race(all_turtles):
+    """Starts the race by moving the turtle to its starting position and moves the turtles"""
+    
+    y_position = 125
+    for turtle in all_turtles:
+        turtle.penup()
+        turtle.goto(right_edge, y_position)
+        y_position -= 50
 
-        if red.xcor() >= left_edge:
-            declare_winner("red")
-            break
-        elif green.xcor() >= left_edge:
-            declare_winner("green")
-            break
-        elif blue.xcor() >= left_edge:
-            declare_winner("blue")
-            break
-        elif yellow.xcor() >= left_edge:
-            declare_winner("yellow")
-            break
-        elif orange.xcor() >= left_edge:
-            declare_winner("orange")
-            break
-        elif violet.xcor() >= left_edge:
-            declare_winner("violet")
-            break
+    is_race_on = "True"
+
+    while is_race_on:
+        for turtle in all_turtles:
+            turtle.forward(random.randint(1, 20))
+            if turtle.xcor() >= left_edge:
+                declare_winner(turtle.pencolor())
+                is_race_on = False
 
 def ask_bet():
+    """Asks the user on which turtle they want to bet on.
+       Returns a string of the color they are betting."""
     user_bet = screen.textinput(title="Make your bet!", prompt="Which turtle will win the race? Enter a color (ROYGBV): ")
     if user_bet is not None:
         return user_bet.lower()
     else:
         return None
+    
+def create_turtles():
+    """Generates the turtles for the race.
+       Returns a list of turtles.
+    """
+    
+    turtles = []
+
+    for i in range(0, 6):
+        t = Turtle()
+        t.shapesize(2, 2, 3)
+        t.shape("turtle")
+        t.color(colors[i])
+        turtles.append(t)
+    
+    return turtles
 
 screen = Screen()
+screen.title("Betting Turtle Race")
 
 user_bet = ""
 
-while user_bet != 'red' and user_bet != 'orange' and user_bet != 'yellow' and user_bet != 'green' and user_bet != 'blue' and user_bet != 'violet':
+while user_bet not in colors:
     user_bet = ask_bet()
-    print(user_bet)
 
 right_edge = screen.window_width()/-2 + 20
 left_edge = screen.window_width()/2 - 50
 
-red = Turtle()
-red.shapesize(2, 2, 3)
-red.shape("turtle")
-red.color("red")
-red.penup()
-red.goto(right_edge, 125)
-
-green = Turtle()
-green.shapesize(2, 2, 3)
-green.shape("turtle")
-green.color("green")
-green.penup()
-green.goto(right_edge, 75)
-
-blue = Turtle()
-blue.shapesize(2, 2, 3)
-blue.shape("turtle")
-blue.color("blue")
-blue.penup()
-blue.goto(right_edge, 25)
-
-yellow = Turtle()
-yellow.shapesize(2,2,3)
-yellow.shape("turtle")
-yellow.color("yellow")
-yellow.penup()
-yellow.goto(right_edge, -25)
-
-orange = Turtle()
-orange.shapesize(2,2,3)
-orange.shape("turtle")
-orange.color("orange")
-orange.penup()
-orange.goto(right_edge, -75)
-
-violet = Turtle()
-violet.shapesize(2,2,3)
-violet.shape("turtle")
-violet.color("violet")
-violet.penup()
-violet.goto(right_edge, -125)
-
-start_race()
-
+all_turtles = create_turtles()
+start_race(all_turtles)
 
 screen.exitonclick()
