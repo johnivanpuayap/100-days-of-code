@@ -37,9 +37,20 @@ def start_race():
             declare_winner("violet")
             break
 
+def ask_bet():
+    user_bet = screen.textinput(title="Make your bet!", prompt="Which turtle will win the race? Enter a color (ROYGBV): ")
+    if user_bet is not None:
+        return user_bet.lower()
+    else:
+        return None
 
 screen = Screen()
-user_bet = screen.textinput(title="Make your bet!", prompt="Which turtle will win the race? Enter a color (ROYGBV): ").lower()
+
+user_bet = ""
+
+while user_bet != 'red' and user_bet != 'orange' and user_bet != 'yellow' and user_bet != 'green' and user_bet != 'blue' and user_bet != 'violet':
+    user_bet = ask_bet()
+    print(user_bet)
 
 right_edge = screen.window_width()/-2 + 20
 left_edge = screen.window_width()/2 - 50
@@ -87,5 +98,6 @@ violet.penup()
 violet.goto(right_edge, -125)
 
 start_race()
+
 
 screen.exitonclick()

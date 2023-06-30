@@ -28,6 +28,7 @@
   12. Add a prompt using textinput to ask user who they think will win
   13. Modify the declare winner function so that it will compare first if the user's bet is the same as winner and store it in the result variable
   14. Modify the f-string to also show the result variable
+  15. Add an error-handling where it will only proceed when the user_input is a valid color
 
 
   Conclusion
