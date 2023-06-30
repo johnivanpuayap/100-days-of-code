@@ -1,6 +1,6 @@
 # Day 17
 ## Reflection
-  I just had a 2-day break because I attended my Lola's sister's funeral. Nonetheless, I started today by completing Day 19 of the 100 Days of Python challenge. This section delves more into turtle graphics, event listeners, and working with state and multiple instances. I learned a lot today, particularly about functions as inputs, which is a concept I wasn't familiar with before.
+  I just had a 2-day break because of a personal matter. Nonetheless, I started today by completing Day 19 of the 100 Days of Python challenge. This section delves more into turtle graphics, event listeners, and working with state and multiple instances. I learned a lot today, particularly about functions as inputs, which is a concept I wasn't familiar with before.
 
   This section has two final projects, the first one is an etch-a-sketch app using turtle graphics and the second one is a turtle race betting app.
 
@@ -34,13 +34,14 @@
   16. Added a title on the Screen
   17. Added docstrings to functions for improved code documentation.
 
-  After that, I finished the day by completing the collecting types module of the Python Intermediate course. I studied about sets and list comprehensions. I also learned alot on this lessons like on the list comprehension but still theree are some parts that was not covered in the course that I was curious about, so what I did was also get some research about it like the difference between sets, dictionaries and lists, operations in sets, etc. The last part of the module was the quiz, which was not that hard and I was able to pass it.
+  After, I completed the collecting types module of the Python Intermediate course. I studied about sets and list comprehensions. I also learned a lot in these lessons, such as list comprehensions. However, there were some parts that were not covered in the course that I was curious about. So, I did some additional research on topics like the difference between sets, dictionaries, and lists, operations in sets, etc. The last part of the module was the quiz, which was not that hard, and I was able to pass it.
 
-  
+  Since I still wanted to learn something, I completed the "Learn CSS Flexbox by Building a Photo Gallery" project of the Responsive Web Certification on FreeCodeCamp. I was able to learn about flexbox and properties like display, flex-direction, flex-wrap, justify-content, gap, align-items, etc. After finishing the project, I made sure to explore how different properties work and not just do what the project needed. This helped me understand how they work in various scenarios.
+
   Conclusion
-  
-  
+  After a 2-day break, I regained the energy to continue the challenge. Today, I completed Day 19 of the 100 Days of Python, the Collection Types Module of Python Intermediate on Sololearn, and the Learn CSS Flexbox by Building a Photo Gallery of Responsive Web Design Certification on FreeCodeCamp. It was indeed a productive day, and hopefully, I can maintain this momentum and achieve even more in the upcoming days with 83 days to go!
 
 ## Progress
  - Completed Day 19 of 100 Days of Python
  - Completed Collection Types Module of Python Intermediate on Sololearn
+ - Completed Learn CSS Flexbox by Building a Photo Gallery of Responsive Web Design Certification on FreeCodeCamp.
