@@ -10,7 +10,7 @@ def declare_winner(winner):
     else:
         result = "YOU LOSE!"
     
-    print(f"{result} The winner is the {winner} turtle!")
+    print(f"{result} The {winner} turtle is the winner!")
 
 def start_race(all_turtles):
     """Starts the race by moving the turtle to its starting position and moves the turtles"""
@@ -43,7 +43,6 @@ def create_turtles():
     """Generates the turtles for the race.
        Returns a list of turtles.
     """
-    
     turtles = []
 
     for i in range(0, 6):
@@ -64,7 +63,7 @@ while user_bet not in colors:
     user_bet = ask_bet()
 
 right_edge = screen.window_width()/-2 + 20
-left_edge = screen.window_width()/2 - 50
+left_edge = screen.window_width()/2 - 40
 
 all_turtles = create_turtles()
 start_race(all_turtles)
