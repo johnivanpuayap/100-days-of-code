@@ -39,4 +39,4 @@
 ## [Day 15: Coming Back From Vacation](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2015)
 ## [Day 16: Introduction to Turtle Graphics and Tuples ](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2016)
 ## [Day 17: Turtle Graphics, Collection Types and CSS Flexbox](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2017)
-## [Day 18: ](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2018)
+## [Day 18: Snake Game](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2018)
