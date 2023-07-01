@@ -7,12 +7,12 @@
 
   After that, I made some progress on the Learn Typography by Building a Nutrition Label Section of the Responsive Web Design Certification. The focus on this section was all about text. I was able to learn how to style text, adjust line height, and position text using CSS and also was able to learn how to link an external CSS file.
 
-  I ended the day by creating a repository for the Snake Game Project on Day 20 and Day 21 of the 100 Days of Python and also made a little bit of progress on Day 20
+  I ended the day by creating a repository for the Snake Game Project on Day 20 and Day 21 of the 100 Days of Python and also made a little bit of progress on Day 20.
   
   Conclusion
   Today was a slow day since I was really busy but what really matters is showing up, even if you do little just show up. Hopefully, I am able to do more tomorrow and make better progress. 82 more days to go
 
 ## Progress
-  - Completed Introduction, Lambdas, Map & Filters, Generators and Decorators section of the Function Programming Module on Python Intermediate
-  - 
+  - Made progress on the Function Programming Module of Python Intermediate on Sololearn
+  - Made progress on the Learn Typography by Building a Nutrition Label Section of the Responsive Web Design Certification on FreeCodeCamp
   - Created Repository for the Snake Game Project [Repository](https://github.com/johnivanpuayap/Snake-Game)
