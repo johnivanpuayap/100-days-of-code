@@ -1,9 +1,10 @@
 # Day 19: Snake Game Project
 
 ## Reflection
-  I was still busy today with other things but I really wanted to finish the Snake Game already so I decided to try to finish it as much as possible. 
+  Today, despite being busy with other commitments, I was determined to make progress on the Snake Game project. I wanted to finish it as much as possible and decided to focus on completing the essential features.
 
-  Whenever I start a new project, I make sure to breakdown the problem to small parts first, this way it will be easier for me to implement, I will not be overwhelmed about what I need to do and I can see my progress as a reward to my brain. After thinking about, here's how I want to do the project
+  To tackle the project effectively, I followed my usual approach of breaking down the problem into smaller parts. This strategy helps me to implement the project more easily, avoid feeling overwhelmed, and provides a sense of accomplishment as I make progress. Here is the breakdown of the tasks I planned for the project:
+  
   1. Create the snake
   2. Make the snake move
   3. Enable user to control the snake
