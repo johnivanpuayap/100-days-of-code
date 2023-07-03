@@ -1,7 +1,7 @@
 # Day 20: Completing the Snake Game Project
 
 ## Reflection
-  Today marks a significant milestone as I complete Day 20 of the 100 Days of Python challenge. It's been an exciting journey so far, filled with learning and progress. As part of today's challenge, I focused on finishing the Snake Game Project.
+  Today marks a significant milestone as I am already on Day 20 of my 100 Days of Code Challenge. It's been an exciting journey so far, filled with learning and progress. As part of today's challenge, I focused on finishing the Snake Game Project.
 
   During the project, I not only implemented the core requirements but also added some extra features to enhance the game experience. Here are the changes I made:
 
