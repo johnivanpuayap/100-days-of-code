@@ -42,3 +42,4 @@
 ### [Day 18: Perseverance Pays Off](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2018)
 ### [Day 19: Snake Game Project](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2019)
 ### [Day 20: Completing the Snake Game Project](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2020)
+### [Day 21: ](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2021)
