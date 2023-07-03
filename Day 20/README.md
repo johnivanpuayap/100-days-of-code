@@ -25,4 +25,4 @@
   ## Progress
   - Completed the [Snake Game](https://github.com/johnivanpuayap/Snake-Game) Project
   - Completed Day 21 of 100 Days of Python
-  - Completed Learn Typography by Building a Nutrition Label Section of the Responsive Web Design Certification on FreeCodeCamp
+  - Finished the Learn Typography by Building a Nutrition Label Section of the Responsive Web Design Certification on FreeCodeCamp
