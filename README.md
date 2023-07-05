@@ -43,4 +43,4 @@
 ### [Day 19: Snake Game Project](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2019)
 ### [Day 20: Completing the Snake Game Project](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2020)
 ### [Day 21: Pong Game](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2021)
-### [Day 22: ](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2021)
+### [Day 22: Focusing on the Responsive Web Design Certification](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2021)
