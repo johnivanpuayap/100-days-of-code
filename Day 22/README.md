@@ -7,10 +7,10 @@
 
   The next section involved creating a tribute page, which was one of the Certification Projects. While the certification did not require an exact match, I challenged myself to make it closely resemble the example tribute page. This project took several hours, but I managed to complete it without using the inspect button on Chrome.
 
-  I ended the day by refactoring the Pong Game project and also improving some of its feature. I also dedicated some time to organize some projects and some code from the last semester on my Github, thus ending my day earlier.
+  I ended the day by refactoring the Pong Game project and improving some of its features. I dedicated some of my time to organizing coding projects and exercises from the last semester on my GitHub, which is why I wrap up my day earlier.
 
   Conclusion
-  Overall, Day 21 was focused on the Responsive Web Design Certification and refactoring my Pong Game code. I made progress by finishing the "Learn Accessibility by Building a Quiz" section and completing the Certification Project #2 Tribute Page. This day allowed me to enhance my understanding of accessibility in web development and apply my skills to create a tribute page.
+  Overall, Day 21 was focused on the Responsive Web Design Certification and refactoring my Pong Game code. I made progress by finishing the "Learn Accessibility by Building a Quiz" section and completing the Certification Project #2 Tribute Page. This day allowed me to enhance my understanding of accessibility in web development and apply my skills to create a tribute page. Additionally, I invested time in refactoring the Pong Game project and enhancing its functionality. The day concluded with organizing projects and code on my GitHub, contributing to better project management and code maintainability. Overall, it was a productive day of skill development, project advancement, and organization.
 
   ## Progress
   - Finished "Learn Accessibility by Building a Quiz" section of the Responsive Web Design Certification. 
