@@ -20,4 +20,4 @@
   ## Progress
   - Finished the [Pong Game](https://github.com/johnivanpuayap/Pong-Game) Project
   - Completed Day 22 of 100 Days of Python
-  - Made progress on the "Learn Accessibility by Building a Quiz" section of the Responsive Web Design Certification.
+  - Made progress on the "Learn Accessibility by Building a Quiz" section of the Responsive Web Design Certification. 
