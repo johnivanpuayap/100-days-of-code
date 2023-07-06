@@ -1,4 +1,4 @@
-# Day 21: Focusing on the Responsive Web Design Certification
+# Day 22: Focusing on the Responsive Web Design Certification
 
 ## Reflection
   For today, I decided to take a break from the 100 Days of Python since I am one day ahead and wanted to focus on the Responsive Web Design Certification. My initial goal was to finish it before moving on to the intermediate part of the 100 Days of Python, but I am already halfway through the intermediate part. Thus, I dedicated this day to making as much progress as possible on the certification.
