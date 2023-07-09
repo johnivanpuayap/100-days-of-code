@@ -1,12 +1,15 @@
 # Day 24: Files, Directories, and Paths
 ## Reflection
-  Today, I started working on Day 24 of the Python. After a couple of days, I am finally moving on creating games or using the turtle module, which is kind of a breath of a fresh air.
-  
-  I learned about working with local files and directories. I learned about how to read and write files on Python. I did many exercises today. The first one is improving the game and adding a high score. I thought that it was simple enough that I added other features like storing the top 5 scores and also letting the user store their name when they reach a top score. Next, I did the mail merge project, where I create a python program that allows you to automate sending a mail to different names, making it personalized.
+  Today, I started by making progress on Day 24 of the Python course. After a couple of days, the course finally moved on to creating games or using the turtle module, which brought a breath of fresh air to my learning experience. I found this change of topic quite refreshing, as I was starting to feel that the previous lesson were becoming repetitive. In today's lesson, I focused on working with local files and directories, specifically learning how to read and write files in Python.
+
+  Throughout the day, I completed two main exercises. Firstly, I improved the game by adding a high score feature. While the initial task seemed simple enough, I decided to enhance it further by incorporating additional functionality, such as storing the top 5 scores and allowing users to input their name when they achieve a high score.
+
+  Additionally, I worked on the mail merge project, which involved creating a Python program to automate sending personalized emails to different recipients. By implementing this project, I gained valuable experience in handling dynamic content and automating repetitive tasks.
   
   Conclusion
 
-  Today, I ended my learning session early since my family wanted to go outside but nevertheless, I was still able to complete Day 24 where I managed to improve my Snake Game and complete the mail merge project. 76 more days to go
-  
+  Although my learning session was cut short today due to my family's plan to go outside, I still managed to complete Day 24. I made significant progress by improving my Snake Game and successfully completing the mail merge project. With 76 more days to go, I'm excited to continue my Python learning journey and learn new concepts and create new projects.
+
   ## Progress
   - Completed Day 24 of 100 Days of Python
+  - Added New Features on the Snake Game Project
