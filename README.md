@@ -45,5 +45,5 @@
 ### [Day 21: Pong Game](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2021)
 ### [Day 22: Focusing on the Responsive Web Design Certification](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2022)
 ### [Day 23: The Turtle Crossing Capstone Project](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2023)
-### [Day 24: ](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2024)
+### [Day 24: Files, Directories, and Paths](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2024)
 ### [Day 25: Exploring CSV Files and Creating an Educational Game](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2025)
