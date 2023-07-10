@@ -1,11 +1,11 @@
-# Day 25:
+# Day 25: Exploring CSV Files and Creating an Educational Game
 
 ## Reflection
-  Today, I was set on finishing Day 25 of 100 Days of Python. I learned a lot especially on working with data files and the Pandas library.
+  TToday, I dedicated my efforts to completing Day 25 of the 100 Days of Python challenge. I made significant progress and acquired valuable knowledge along the way. One of the key concepts I learned today was how to read and write data from CSV files, as well as exploring the methods of the Pandas library.
 
-  The final project for today is creating an educational game that lets user guess and learn all the states in the US.
-  
-  As the days or lesson pass by, it gets more harder for me, which is why I may not be able to finish a lot but nevertheless, I am still making sure to try and finish one section per day as long as I can. Luckily, I think I finished the project today.
+  For the final project of the day, I developed an engaging educational game that allows users to guess and learn about all the states in the US. This project proved to be an exciting and rewarding experience.
+
+  While I recognize that the difficulty level of the lessons continues to increase as the challenge progresses, I remain committed to my goal of completing at least one section per day. Although I may not accomplish as much as I'd like, I consistently strive to make progress. Fortunately, I was able to successfully complete the project for today.
 
   Conclusion
 
