@@ -23,7 +23,3 @@ with open("Day 24\my_file.txt", mode='w') as file:
 # append
 with open("Day 24\my_file.txt", mode='a') as file:
     file.write("\nNew text.")
-
-# creates a new file
-with open("Day 24\new_file.txt", mode='w') as file:
-    file.write("\nNew text.")
