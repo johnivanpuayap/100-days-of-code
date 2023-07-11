@@ -47,3 +47,4 @@
 ### [Day 23: The Turtle Crossing Capstone Project](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2023)
 ### [Day 24: Files, Directories, and Paths](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2024)
 ### [Day 25: Exploring CSV Files and Creating an Educational Game](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2025)
+### [Day 26: Re-solving my Finals Lab Exam on Design and Analysis of Algorithms](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2026)
