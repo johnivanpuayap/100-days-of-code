@@ -1,4 +1,4 @@
-# Day 10: Embracing the Uncomfortable: Progress in Web Design and Python
+# Day 10: Embracing the Uncomfortable
 ## Reflection
  Today, I dedicated my efforts to enhancing my Survey Form for the Web Design Certification. While my previous submission focused mainly on HTML, I realized that to truly benefit from this course, I needed to delve deeper into CSS. Striving for both functionality and design similar to https://survey-form.freecodecamp.rocks, I encountered challenges due to my limited CSS skills. However, I persisted and completed the project. This experience reinforced the importance of being comfortable with the uncomfortable as a software engineer. To succeed in this field, one must continually learn and adapt to emerging technologies. Embracing discomfort enables us to tackle unfamiliar tasks confidently.
 
