@@ -1,4 +1,4 @@
-# Day 19: Snake Game Project
+# Day 19: Snake Game Project Part 1
 
 ## Reflection
   Today, despite being busy with other commitments, I was determined to make progress on the Snake Game project. I wanted to finish it as much as possible and decided to focus on completing the essential features.

@@ -1,4 +1,4 @@
-# Day 20: Completing the Snake Game Project
+# Day 20: Snake Game Project Part 2
 
 ## Reflection
   Today marks a significant milestone as I am already on Day 20 of my 100 Days of Code Challenge. It's been an exciting journey so far, filled with learning and progress. As part of today's challenge, I focused on finishing the Snake Game Project.

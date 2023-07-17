@@ -6,16 +6,15 @@
 
  Throughout the 100-day challenge, my primary focus areas encompass several key goals. These include improving my HTML and CSS skills, expanding my proficiency in Python programming, developing a personal website with an accompanying blog, completing The Odin Project, preparing for the PhilNits exam, and familiarizing myself with the subjects covered in my upcoming semester's courses. By addressing these objectives, I aim to not only enhance my technical abilities but also broaden my understanding of various web development concepts and prepare for future academic endeavors.
 
-## Goals
+## Ongoing Goals
  1. Complete the Responsive Web Design Certification by FreeCodeCamp.org.
  2. Create a Personal Website with a blog.
  3. Finish The Odin Project.
  4. Complete the "100 Days of Python" course by Angela Yu.
  5. Begin reviewing for the PhilNits exam.
- 6. Complete Introduction to Python on Sololearn
- 7. Complete Python Intermediate on Sololearn
- 8. Complete Python Data Structures
- 9. Start studying for my courses in the first semester of AY 2023-2024.
+ 6. Complete Python Intermediate on Sololearn
+ 7. Complete Python Data Structures
+ 8. Start studying for my courses in the first semester of AY 2023-2024.
 
 ## Finished Projects and Certificates
  1. [Introduction to Python on Sololearn](https://www.sololearn.com/certificates/CC-OESSQKOJ)
@@ -40,8 +39,8 @@
 ### [Day 16: Introduction to Turtle Graphics and Tuples](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2016)
 ### [Day 17: Turtle Graphics, Collection Types and CSS Flexbox](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2017)
 ### [Day 18: Perseverance Pays Off](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2018)
-### [Day 19: Snake Game Project](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2019)
-### [Day 20: Completing the Snake Game Project](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2020)
+### [Day 19: Snake Game Project Part 1](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2019)
+### [Day 20: Snake Game Project Part 2](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2020)
 ### [Day 21: Pong Game](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2021)
 ### [Day 22: Focusing on the Responsive Web Design Certification](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2022)
 ### [Day 23: The Turtle Crossing Capstone Project](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2023)
