@@ -50,4 +50,5 @@
 ### [Day 26: Re-solving my Finals Lab Exam on Design and Analysis of Algorithms](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2026)
 ### [Day 27: ](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2027)
 ### [Day 28: Pomodoro GUI Application](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2028)
-### [Day 29: Password Manager](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2028)
+### [Day 29: Password Manager](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2029)
+### [Day 30: Exception Handling and JSON](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2030)
