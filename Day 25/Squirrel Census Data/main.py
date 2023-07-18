@@ -19,4 +19,4 @@ squirrel_dict = {
 }
 
 data = pd.DataFrame(squirrel_dict)
-data.to_csv("Day 25\\Squirrel Census Data\\squirrel_count.csv")
+data.to_csv("Day 25\\Squirrel Census Data \\squirrel_count.csv")
