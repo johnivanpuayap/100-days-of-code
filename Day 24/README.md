@@ -4,9 +4,7 @@
 
   Throughout the day, I completed two main exercises. Firstly, I improved the game by adding a high score feature. While the initial task seemed simple enough, I decided to enhance it further by incorporating additional functionality, such as storing the top 5 scores and allowing users to input their name when they achieve a high score.
 
-  Additionally, I worked on the mail merge project, which involved creating a Python program to automate sending personalized emails to different recipients. By implementing this project, I gained valuable experience in handling dynamic content and automating repetitive tasks.
-  
-  Conclusion
+  Additionally, I worked on the mail merge project, which involved creating a Python program to automate sending personalized emails to different recipients which was actually just easy as long as you know absolute/relative file paths and how to open and write on files. By implementing this project, I gained valuable experience in handling dynamic content and automating repetitive tasks.
 
   Although my learning session was cut short today due to my family's plan to go outside, I still managed to complete Day 24. I made significant progress by improving my Snake Game and successfully completing the mail merge project. With 76 more days to go, I'm excited to continue my Python learning journey and learn new concepts and create new projects.
 
