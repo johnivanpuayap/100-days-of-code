@@ -1,13 +1,15 @@
 # Day 31: Flashcard App
 ## Reflection
-  Today, I started doing Day 31 of 100 Days of Python which is a capstone project. What I needed to create was a FlashCard app, which is something I already done a similar project before in school named [SmartCard](https://github.com/johnivanpuayap/SmartCards), a flashcard app that utilizes the Leitner system, enabling users to review and enhance their learning through effective spaced repetition.
+  Today, for Day 31 of my 100 Days of Python challenge, I worked on a Flashcard app as a capstone project. I had previously completed a similar project in school called [SmartCard](https://github.com/johnivanpuayap/SmartCards), which was a flashcard app implementing the Leitner system for effective spaced repetition to enhance learning.
 
-  Since 100 Days of Code is all about improving my skills and I am already familiar with what needed to be done, what I did was add new features to challenge me and so that I can learn something new. Here are the new features that I added:
+  Since the purpose of the 100 Days of Code challenge is to improve my skills, I decided to add new features to the app to challenge myself and learn something new. Here are the new features I implemented:
   1. 
+  2. 
+  3. 
 
-  After finishing the FlashCard App, I made progress on the Responsive Web Design Certificate by starting the Learn Intermediate CSS by Building a Picasso Painting, where I learned all about about SVG icons, CSS positioning, and also review the CSS skills I've learned.
+  After completing the Flashcard App, I continued making progress on the Responsive Web Design Certification. I started the "Learn Intermediate CSS by Building a Picasso Painting" section, where I explored topics such as SVG icons, CSS positioning, and reviewed my CSS skills.
 
-  Today was a productive day! 69 days to go!
+  Overall, it was an incredibly productive day, igniting a renewed sense of accomplishment and determination as I look ahead to the remaining 69 days of the challenge, excited to undertake fresh projects and further refine my Python and web development expertise.
 
   ## Progress
   - Created the Flash Card App [Repository](https://github.com/johnivanpuayap/FlashcardApp)
