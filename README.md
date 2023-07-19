@@ -52,4 +52,4 @@
 ### [Day 29: Password Manager](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2029)
 ### [Day 30: Exception Handling and JSON](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2030)
 ### [Day 31: Flashcard App](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2031)
-### [Day 32: ](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2032)
+### [Day 32: Sending Emails and CSS Mastery](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2032)
