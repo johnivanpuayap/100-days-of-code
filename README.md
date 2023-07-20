@@ -46,7 +46,7 @@
 ### [Day 23: The Turtle Crossing Capstone Project](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2023)
 ### [Day 24: Files, Directories, and Paths](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2024)
 ### [Day 25: Exploring CSV Files and Creating an Educational Game](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2025)
-### [Day 26: Re-creating my Finals Lab Exam but with Python](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2026)
+### [Day 26: List Comprehensions](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2026)
 ### [Day 27: Working with the Tkinter Library](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2027)
 ### [Day 28: Pomodoro GUI Application](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2028)
 ### [Day 29: Password Manager](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2029)
