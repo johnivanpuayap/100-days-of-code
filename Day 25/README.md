@@ -1,4 +1,4 @@
-# Day 25: Exploring the Pandas Library and Creating an Educational Game
+# Day 25: Exploring CSV Files and the Pandas Library
 
 ## Reflection
   Today, I dedicated my efforts to completing Day 25 of the 100 Days of Python challenge. I made significant progress and acquired valuable knowledge along the way. One of the key concepts I learned today was how to read and write data from CSV files, as well as exploring the methods of the Pandas library as well as data structures like the Data Frame and Series.
