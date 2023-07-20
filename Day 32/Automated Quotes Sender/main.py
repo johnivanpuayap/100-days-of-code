@@ -23,3 +23,4 @@ if date_now.weekday() == 0:
         connection.login(user=my_email, password=password)
         connection.sendmail(from_addr=my_email, to_addrs="johnivanpuayap@gmail.com", msg=message)
 
+        
