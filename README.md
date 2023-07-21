@@ -54,4 +54,4 @@
 ### [Day 31: Flashcard App](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2031)
 ### [Day 32: Sending Emails and CSS Mastery](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2032)
 ### [Day 33: Application Programming Interface (APIs)](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2033)
-### [Day 34: Sending Emails and CSS Mastery](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2034)
+### [Day 34: Creating a Quiz App as an API Practice](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2034)
