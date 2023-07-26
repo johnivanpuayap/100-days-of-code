@@ -1,9 +1,13 @@
 # Day 30: Exception Handling and JSON
 
 ## Reflection  
-  Today, I started by completing Day 30 of 100 Days of Python where I learned about Exception Handling, a concept I am already familiar with in Python and also learned about saving and loading JSON data during improving the Password Manager program by adding a save and search feature and also adding some exception handling.
+  Today, I started by completing Day 30 of 100 Days of Python. Here is a summary of what I learned today
+  1. Exception Handling in Python, a concept I am already familiar with
+  2. I learned that there is an else statement, which executes if there are no exceptions
+  3. Raising Own Exception
+  4. Opening and Saving data from/to a JSON
 
-  Next, 
+  All of these learnings were essential in improving the Password Manager App by adding exception handling
 
 ## Progress
  - Completed Day 30 of 100 Days of Python
