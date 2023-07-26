@@ -16,3 +16,4 @@
 ## Progress
 - Completed Day 25 of 100 Days of Python
 - Finished the Module 2 Quiz on Python Intermediate
+- Completed the [US States Game](https://github.com/johnivanpuayap/US-States-Game) Project
