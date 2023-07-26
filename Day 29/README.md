@@ -11,11 +11,11 @@
 
   - **Password Generation Feature**: Building upon the password generator project, I seamlessly integrated this feature into the password manager. Users can now generate strong passwords with ease.
 
-  - **Other Features**: In addition to the password generation and clipboard integration, I implemented essential features, including saving passwords securely and displaying error messages for incomplete entries.
+  - **Other Features**: In addition to the password generation and clipboard integration, I implemented essential features, including saving passwords secured
 
   With the password manager now fully functional, I'm thrilled with the progress I've made in mastering Tkinter and creating useful GUI applications.
 
-  Although I had to cut my coding session short today to review for the upcoming Philnits exam, I'm content with what I achieved. Completing Day 29 of 100 Days of Python was a significant milestone, and I'm proud of my commitment to this challenge. I'm eager to continue honing my Python skills in the remaining 71 days and make the most out of this learning journey.
+  While I had to cut my coding session short today to review for the upcoming Philnits exam, I'm content with what I achieved. Completing Day 29 of 100 Days of Python was a significant milestone, and I'm proud of my commitment to this challenge. I'm eager to continue honing my Python skills in the remaining 71 days and make the most out of this learning journey.
 
 ## Progress
  - Completed Day 29 of 100 Days of Python
