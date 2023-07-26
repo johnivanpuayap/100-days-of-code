@@ -49,7 +49,7 @@
 ### [Day 26: List and Dictionary Comprehensions](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2026)
 ### [Day 27: Working with the Tkinter Library](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2027)
 ### [Day 28: Pomodoro GUI Application](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2028)
-### [Day 29: Password Manager](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2029)
+### [Day 29: Building a Password Manager with Tkinter and MessageBox](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2029)
 ### [Day 30: Working with Exception Handling and JSON](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2030)
 ### [Day 31: Flashcard App](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2031)
 ### [Day 32: Sending Emails and CSS Mastery](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2032)
