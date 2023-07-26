@@ -7,3 +7,6 @@
 
 ## Progress
   - Completed Day 38 of 100 Days of Python
+  - Completed the [Workout Tracking App](https://github.com/johnivanpuayap/WorkoutTracker)
+  - Solved 2 Easy LeetCode Questions
+  - Made Progress on the Movie Match Project
