@@ -11,4 +11,5 @@
 
 ## Progress
 - Completed Day 26 of 100 Days of Python
+- Completed a simple [NATO Alphabet](https://github.com/johnivanpuayap/NatoAlphabet) project
 - Finished the Module 2 Quiz on Python Intermediate
