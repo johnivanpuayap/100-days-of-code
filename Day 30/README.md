@@ -7,7 +7,7 @@
   3. Raising Own Exception
   4. Opening and Saving data from/to a JSON
 
-  All of these learnings were essential in improving the Password Manager App by adding exception handling
+  I also managed to complete 2 exercises, add error handling on my Nato Alphabet project and was able to improve my Password Manager App by adding exception handling
 
 ## Progress
  - Completed Day 30 of 100 Days of Python
