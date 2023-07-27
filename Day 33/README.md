@@ -3,7 +3,7 @@
 ## Reflection
     Today, I first worked on something I missed yesterday in Day 32 of 100 Days of Python, which was learning how to run a Python code/script in the cloud using PythonAnywhere. 
     
-    After, I learned about APIs, how do they work and how to use them, API requests and how to make a request, the request module in python, response codes and what do they mean. I was able to complete an exercise to build a Kanye Quotes App using the Kanye Rest API and complete the main project of the day which is to create an International Space Station Overhead Notifier Project.
+    After, I learned about APIs, how do they work and how to use them, API endpoint, API requests and how to make a request, the request module in python, response codes and what do they mean, and API Parameters. I was able to complete an exercise to make a Kanye Quotes App that request to the Kanye Rest API for quotes, an exercise that uses the sunset and sunrise times API and also complete the main project of the day which is to create an International Space Station Overhead Notifier Project.
 
     Next, I head over to make progress on Responsive Web Design Certification. I started the Learn Responsive Web Design by Building a Piano section where I learned more about media queries and pseudo selectors.
 
