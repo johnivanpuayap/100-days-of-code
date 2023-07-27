@@ -1,14 +1,14 @@
-# Day 31: Flashcard App
+# Day 31: Enhancing the Flashcard Learning App
 ## Reflection
-  Today, for Day 31 of my 100 Days of Python challenge, I worked on a Flashcard app for learning French which is the third capstone project of 100 Days of Code. I had previously completed a similar project in school called [SmartCard](https://github.com/johnivanpuayap/SmartCards), which was a flashcard app implementing the Leitner system for effective spaced repetition to enhance learning.
+  On Day 31 of my 100 Days of Python challenge, I embarked on developing a Flashcard app to learn French, marking the third capstone project in this coding journey. Building on my previous project called SmartCard from school, which implemented the Leitner system for spaced repetition, I challenged myself to further improve my skills and incorporate new features.
 
-  Since the purpose of the 100 Days of Code challenge is to improve my skills, I decided to add new features to the app to challenge myself and learn something new. Here are the new features I implemented:
-  1. When there are no more words to learn in the words_to_learn.csv load again from the french_words.csv
-  2. Display progress for the session
+  The additional features I implemented were:
+  1. Automatic reloading of words from french_words.csv when there are no more words left to learn in words_to_learn.csv.
+  2. Displaying progress tracking for the session.
+  
+  Beyond completing the Flashcard App, I made steady progress on the Responsive Web Design Certification, specifically in the "Learn Intermediate CSS by Building a Picasso Painting" section. Here, I explored topics such as SVG icons, CSS positioning, and took the opportunity to review and enhance my CSS skills.
 
-  After completing the Flashcard App, I continued making progress on the Responsive Web Design Certification. I started the "Learn Intermediate CSS by Building a Picasso Painting" section, where I explored topics such as SVG icons, CSS positioning, and reviewed my CSS skills.
-
-  Overall, it was an incredibly productive day, igniting a renewed sense of accomplishment and determination as I look ahead to the remaining 69 days of the challenge, excited to undertake fresh projects and further refine my Python and web development expertise.
+  This day proved to be incredibly productive, fueling a renewed sense of accomplishment and determination as I eagerly anticipate the upcoming 69 days of the challenge. I am excited to take on fresh projects and further refine my Python and web development expertise.
 
   ## Progress
   - Created the Flash Card App [Repository](https://github.com/johnivanpuayap/FlashcardApp)
