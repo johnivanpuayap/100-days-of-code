@@ -51,7 +51,7 @@
 ### [Day 28: Building a Pomodoro GUI Application with Tkinter](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2028)
 ### [Day 29: Building a Password Manager with Tkinter and MessageBox](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2029)
 ### [Day 30: Working with Exception Handling and JSON](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2030)
-### [Day 31: Flashcard App](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2031)
+### [Day 31: Building a Flashcard Learning App](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2031)
 ### [Day 32: Sending Emails and CSS Mastery](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2032)
 ### [Day 33: Application Programming Interface (APIs)](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2033)
 ### [Day 34: Creating a Quiz App as an API Practice](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2034)

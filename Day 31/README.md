@@ -1,4 +1,4 @@
-# Day 31: Enhancing the Flashcard Learning App
+# Day 31: Building a Flashcard Learning App
 ## Reflection
   On Day 31 of my 100 Days of Python challenge, I embarked on developing a Flashcard app to learn French, marking the third capstone project in this coding journey. Building on my previous project called SmartCard from school, which implemented the Leitner system for spaced repetition, I challenged myself to further improve my skills and incorporate new features.
 
