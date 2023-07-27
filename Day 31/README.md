@@ -11,6 +11,6 @@
   This day proved to be incredibly productive, fueling a renewed sense of accomplishment and determination as I eagerly anticipate the upcoming 69 days of the challenge. I am excited to take on fresh projects and further refine my Python and web development expertise.
 
   ## Progress
-  - Created the Flash Card App [Repository](https://github.com/johnivanpuayap/FlashcardApp)
-  - Completed Day 31 of 100 Days of Python
+  - Completed Day 31 of 100 Days of Python 
+  - Completed the [Flash Card]((https://github.com/johnivanpuayap/FlashcardApp)) App
   - Made Progress on Learn Intermediate CSS by Building a Picasso Painting section of the Responsive Web Design Certification
