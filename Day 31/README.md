@@ -1,11 +1,10 @@
 # Day 31: Flashcard App
 ## Reflection
-  Today, for Day 31 of my 100 Days of Python challenge, I worked on a Flashcard app as a capstone project. I had previously completed a similar project in school called [SmartCard](https://github.com/johnivanpuayap/SmartCards), which was a flashcard app implementing the Leitner system for effective spaced repetition to enhance learning.
+  Today, for Day 31 of my 100 Days of Python challenge, I worked on a Flashcard app for learning French which is the third capstone project of 100 Days of Code. I had previously completed a similar project in school called [SmartCard](https://github.com/johnivanpuayap/SmartCards), which was a flashcard app implementing the Leitner system for effective spaced repetition to enhance learning.
 
   Since the purpose of the 100 Days of Code challenge is to improve my skills, I decided to add new features to the app to challenge myself and learn something new. Here are the new features I implemented:
-  1. Feature 1
-  2. Feature 2
-  3. Feature 3
+  1. When there are no more words to learn in the words_to_learn.csv load again from the french_words.csv
+  2. Display progress for the session
 
   After completing the Flashcard App, I continued making progress on the Responsive Web Design Certification. I started the "Learn Intermediate CSS by Building a Picasso Painting" section, where I explored topics such as SVG icons, CSS positioning, and reviewed my CSS skills.
 
