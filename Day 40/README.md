@@ -1,9 +1,9 @@
 # Day 40: Completing the Cheap Flight Finder Capstone Project
 
 ## Reflection
-  Today, there was actually no internet so I just finished Day 40, part 2 of the Capstone Project, where I upgraded the Cheap Flight Finder to a fully-fledged product by adding a command line interface that lets user sign up, upgrading the sending feature to send the cheap flight info to all of the users who signed up, and also adding exception handling to handle exceptions and errors.
+  Today, I encountered an unexpected challenge when the internet went down. Nevertheless, I made the most of the situation and managed to accomplish Day 40, part 2 of the Capstone Project. In this phase, I elevated the Cheap Flight Finder from a basic tool to a fully-fledged product. I achieved this by implementing a user-friendly command-line interface that facilitates user sign-ups. Additionally, I upgraded the system's sending feature to deliver cheap flight information to all registered users. To ensure the app's robustness, I incorporated comprehensive exception handling to manage any potential errors or exceptions that may arise.
 
-  After finishing the project, Since there was still no internet, I decided to end my day. We are finally moving on to the expert after, I can't wait to continue building more projects for the next 60 days.
+  Despite the internet outage, I am proud to have completed the project. Consequently, I decided to wrap up my work for the day. Looking forward to the future, I noticed that the next 4 lessons are about Web Foundation, so I might be faster than normal on those lessons. Nevertheless, I only have 60 days to go on this learning journey.
 
 ## Progress
   - Completed Day 40 of 100 Days of Python
