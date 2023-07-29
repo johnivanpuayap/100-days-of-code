@@ -1,4 +1,4 @@
-# Day 34: Creating a Quiz App as an API Practice
+# Day 34: Upgrading the Quiz App as an API Practice
 ## Reflection
   Today marks Day 34 of my 100 Days of Python journey, and it was an exciting one as I delved into the world of API development by creating a Quiz App. This intermediate-level concept challenged my skills and provided an excellent opportunity to practice working with APIs. Throughout completing this project, I was able to learn the advantages of type hints.
 
