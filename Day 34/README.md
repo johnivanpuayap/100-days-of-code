@@ -1,6 +1,6 @@
 # Day 34: Creating a Quiz App as an API Practice
 ## Reflection
-  Today marks Day 34 of my 100 Days of Python journey, and it was an exciting one as I delved into the world of API development by creating a Quiz App. This intermediate-level concept challenged my skills and provided an excellent opportunity to practice working with APIs.
+  Today marks Day 34 of my 100 Days of Python journey, and it was an exciting one as I delved into the world of API development by creating a Quiz App. This intermediate-level concept challenged my skills and provided an excellent opportunity to practice working with APIs. Throughout completing this project, I was able to learn the advantages of type hints.
 
   The task was to use the Day 17 final project to build an improved Quiz App that fetches trivia questions from an online API named Open Trivia Databases and presents them to the user and also used Tkinter, to create the Graphical User Interface.
 
