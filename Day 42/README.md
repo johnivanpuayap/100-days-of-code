@@ -7,4 +7,4 @@
 
 ## Progress
   - Completed Day 42 of 100 Days of Python
-  - Update my [CV](https://github.com/johnivanpuayap/CV) Website
+  - Updated my [CV](https://github.com/johnivanpuayap/CV) Website
