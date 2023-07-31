@@ -2,9 +2,13 @@
 
 ## Reflection
 
-  Today, I focused on Day 35 of the 100 Days of Python challenge. It was a fruitful day where I learned about various essential concepts, such as API Keys, API Authentication, and Environment Variables. Understanding their role in securely storing API Keys was particularly valuable. Additionally, I grasped how to utilize the Twilio API to send SMS messages in Python. These newfound skills motivated me to embark on creating the final project, "Rain Alert" - a Python script that sends me messages, reminding me to bring an umbrella when rain is forecasted. To achieve this, I integrated the Twilio API for message sending and leveraged PythonAnywhere for automation.
+  Today marked Day 35 of my 100 Days of Python challenge, and it was a truly productive day filled with valuable learning experiences. I delved into crucial concepts like API Keys, API Authentication, and Environment Variables. Understanding how these components work together to securely store API Keys proved to be particularly enlightening. Furthermore, I acquired the skills needed to leverage the Twilio API effectively, enabling me to send SMS messages in Python.
 
-  Despite encountering some challenges during the project like not knowing that it takes 2 hours for key activation, I persevered and successfully found a way to complete it. Subsequently, I decided to conclude my day's work on this challenge, opting to focus on my PhilNits review. With 65 days remaining in the 100 Days of Python journey, I am eager and excited about the forthcoming learning opportunities and growth. Onwards to more coding adventures!
+  With these newfound abilities, I was inspired to take on my final project, "Rain Alert." The objective of this Python script is to send me timely reminders to bring an umbrella whenever rain is forecasted. To make this possible, I incorporated the Open Weather API to access forecasted data and seamlessly integrated the Twilio API for sending messages. Understanding how to use the OS module and environmental variables allowed me to store credentials securely, ensuring the privacy of sensitive information. Moreover, I automated the script's execution every day at 7 am using PythonAnywhere.
+
+  Throughout the project, I encountered some challenges, such as the 2-hour API key activation process of Open Weather API, the realization that One Call 3.0 API required a separate subscription and changes in their API where I can only access the 5 day weather forecast with 3 hour step API. However, I persevered and found a way to overcome these obstacles, leading to the successful completion of the project.
+
+  As the day came to a close, I made the decision to shift my focus to my PhilNits review. With 65 days still ahead in my 100 Days of Python journey, I feel enthusiastic and excited about the many learning opportunities and growth that lie ahead. Onwards to more thrilling coding adventures!
 
 ## Progress
   - Completed Day 35 of 100 Days of Python
