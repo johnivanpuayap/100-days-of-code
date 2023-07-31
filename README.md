@@ -63,3 +63,4 @@
 ### [Day 40: Completing the Cheap Flight Finder Capstone Project](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2040)
 ### [Day 41: A Review of HTML](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2041)
 ### [Day 42: Intermediate HTML and Github Pages](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2042)
+### [Day 43: Introduction to CSS](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2043)
