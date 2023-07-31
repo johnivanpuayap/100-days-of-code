@@ -7,7 +7,9 @@
 
   With the research phase initiated and the project repository set up, I meticulously planned my next steps to strike a balance between working on this endeavor and staying committed to my ongoing 100 Days of Python challenge.
 
-  Alongside my personal project endeavors, I also managed to complete Day 36 of my 100 Days of Python challenge. For this day's challenge, I created a simple stock monitoring project that sends the user a daily summary of a stock with price changes and relevant news. I skillfully utilized the Alpha Vantage API to fetch stock prices for specific dates of interest and complemented this with relevant company news extracted using the News API.
+  Besides working on my personal projects, I successfully completed Day 36 of my 100 Days of Python challenge. On that day, I built a stock monitoring project. It provides users with a summary of a stock, including its price changes and relevant news.
+
+  To fetch stock prices for specific dates of interest, I skillfully utilized the Alpha Vantage API. To enhance this, I used the News API to extract relevant company news. Finally, I integrated the Twilio API to send an SMS to the user containing the stock's price change and the related news.
 
   Today's achievements have only fueled my passion for both personal projects and the 100 Days of Code challenge. I am excitedly looking forward to the next 64 days of this enriching journey!
 
