@@ -64,4 +64,5 @@
 ### [Day 41: A Review of HTML](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2041)
 ### [Day 42: Intermediate HTML and Github Pages](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2042)
 ### [Day 43: Introduction to CSS](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2043)
-### [Day 44: Intermediate CSS](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2043)
+### [Day 44: Intermediate CSS](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2044)
+### [Day 45: Exploring the World of Web Scraping with Beautiful Soup](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2045)
