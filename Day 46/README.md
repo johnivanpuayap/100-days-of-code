@@ -5,3 +5,4 @@
 
 ## Progress
   - Completed Day 46 of 100 Days of Python
+  - Finished Exception Module of Python Intermediate on Sololearn
