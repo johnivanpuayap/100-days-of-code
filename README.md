@@ -7,16 +7,19 @@
  Throughout the 100-day challenge, my primary focus areas encompass several key goals. These include improving my HTML and CSS skills, expanding my proficiency in Python programming, developing a personal website with an accompanying blog, completing The Odin Project, preparing for the PhilNits exam, and familiarizing myself with the subjects covered in my upcoming semester's courses. By addressing these objectives, I aim to not only enhance my technical abilities but also broaden my understanding of various web development concepts and prepare for future academic endeavors.
 
 ## Goals
-
+### Python
 - [ ] Complete the "100 Days of Python" course by Angela Yu.
-- [ ] Complete the Responsive Web Design Certification by FreeCodeCamp.org.
-- [ ] Create a Personal Website with a blog.
 - [x] Complete [Introduction to Python on Sololearn](https://www.sololearn.com/certificates/CC-OESSQKOJ)
-- [x] Complete [Python Intermediate on Sololearn]((https://www.sololearn.com/certificates/CC-OESSQKOJ)
-)
+- [x] Complete [Python Intermediate on Sololearn]
+
+### Web
+- [] Complete the Responsive Web Design Certification by FreeCodeCamp.org.
+- [ ] Create a Personal Website for Portfolios with a Blog
 - [ ] Finish The Odin Project.
+
+<!-- ### School
 - [ ] Begin reviewing for the PhilNits exam.
-- [ ] Start studying for my courses in the first semester of AY 2023-2024.
+- [ ] Start studying for my courses in the first semester of AY 2023-2024. -->
 
 ## Daily Logs
 
