@@ -13,7 +13,7 @@
 - [x] Complete [Python Intermediate on Sololearn]
 
 ### Web
-- [] Complete the Responsive Web Design Certification by FreeCodeCamp.org.
+- [ ] Complete the Responsive Web Design Certification by FreeCodeCamp.org.
 - [ ] Create a Personal Website for Portfolios with a Blog
 - [ ] Finish The Odin Project.
 
