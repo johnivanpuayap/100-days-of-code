@@ -1,0 +1,43 @@
+/**************************************************TAG SELECTORS**************************************************************/
+
+h1 {
+  color: red;
+  font-size: 200px;
+}
+
+img:hover {
+  background-color: gold;
+}
+
+/**************************************************CLASS SELECTORS**************************************************************/
+
+.bacon {
+  background-color: green;
+}
+
+.broccoli {
+  background-color: red;
+}
+
+.circular {
+  border-radius: 100%;
+}
+
+/**************************************************ID SELECTORS**************************************************************/
+
+#heading {
+  color: blue;
+}
+
+#big {
+  font-size: 1000px;
+}
+/* ID vs Class
+    The main difference is 
+    1. You can only have a single instance of ID name inside a single page
+    2. Any HTML element can have more than once class but only have one id
+*/
+
+/* Pseudo Classes
+    for different states of an HTML Element
+*/
