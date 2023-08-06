@@ -112,7 +112,7 @@ Throughout the 100-day challenge, my primary focus areas encompass several key g
 
 ### [Day 43: Learning CSS and Building Confidence](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2043)
 
-### [Day 44: Intermediate CSS](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2044)
+### [Day 44: Intermediate CSS - Personal Website Upgrade](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2044)
 
 ### [Day 45: Exploring the World of Web Scraping with Beautiful Soup](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2045)
 
