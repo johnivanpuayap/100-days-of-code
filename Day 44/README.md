@@ -2,11 +2,11 @@
 
 ## Reflection
 
-Today marked the completion of Day 44 of my 100 Days of Code challenge, which was the last day of the Web Foundation phase. The primary focus of this project was to create an improved personal website and deploy it on GitHub Pages. I made the decision to use this upgraded version as my temporary portfolio website, with plans to further enhance it as my skills and confidence grow.
+As I reached Day 44 of my 100 Days of Code challenge, a significant chapter came to a close within the Web Foundation phase. This marked a pivotal moment where I undertook the task of refining and enhancing my personal website, ultimately deploying it on GitHub Pages. The voyage to this accomplishment was not without its challenges, especially in navigating the intricacies of CSS design – an area where I'm still honing my skills. Despite the extended duration this endeavor took, I'm pleased with the outcome. In fact, I've chosen to elevate this upgraded iteration to serve as my interim portfolio website. With time, I intend to cultivate it further, adapting its responsiveness and perhaps even conceiving an entirely new design.
 
-The process of creating a personal website was truly exhilarating, and achieving this milestone brought a great sense of fulfillment. Checking it off my checklist of goals was a rewarding moment for me. Afterwards, I decided to end the day a bit early, as I had to review some materials and we also had some other plans. However, I'm excited to continue the journey with 56 more days left in the challenge. I look forward to the upcoming days and the opportunity to further refine my coding skills and enhance my personal website. Stay tuned for more updates as I continue this coding journey!
+The process of crafting a personal website has been a stimulating journey, infusing each step with exhilaration. Crossing this milestone off my goals list radiated a profound sense of accomplishment. Subsequently, I opted for a slightly shorter day to accommodate some material review and other commitments. Yet, the anticipation of the 56 days that remain in this challenge has me brimming with enthusiasm. I eagerly anticipate the days ahead, poised to refine my coding prowess and augment my personal website to new heights. Stay tuned for more updates as I continue this coding journey!y!
 
 ## Progress
 
 - Completed Day 44 of 100 Days of Python
-- Upgraded my Personal Site(https://github.com/johnivanpuayap/johnivanpuayap.github.io) Website
+- Upgraded my Personal Website (https://johnivanpuayap.github.io)
