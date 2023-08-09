@@ -121,3 +121,5 @@ Throughout the 100-day challenge, my primary focus areas encompass several key g
 ### [Day 47: Creating an Automated Amazon Price Tracker](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2047)
 
 ### [Day 48: Exploring Selenium Webdriver for Advanced Web Scraping](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2048)
+
+### [Day 49: Automating Job Applications with Selenium](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2048)
