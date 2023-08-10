@@ -125,3 +125,5 @@ Throughout the 100-day challenge, my primary focus areas encompass several key g
 ### [Day 49: Automating Job Applications with Selenium](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2049)
 
 ### [Day 50: Creating an Auto Tinder Swiping Bot](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2050)
+
+### [Day 51: Developing an Internet Speed Complaint Bot for Twitter](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2051)
