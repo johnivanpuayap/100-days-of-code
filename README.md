@@ -131,3 +131,5 @@ Throughout the 100-day challenge, my primary focus areas encompass several key g
 ### [Day 52: Developing an Instagram Follower Bot](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2052)
 
 ### [Day 53: Building My Fourth Capstone Project - Data Entry Job Automation](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2053)
+
+### [Day 54: Embarking on the Python Web Development Journey](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2054)
