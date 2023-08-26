@@ -139,3 +139,5 @@ Throughout the 100-day challenge, my primary focus areas encompass several key g
 ### [Day 56: Mastering Static File Rendering and Using Website Templates](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2056)
 
 ### [Day 57: Advancing Flask Skills and Kicking Off the Blog Website](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2057)
+
+### [Day 58: Exploring Bootstrap and Tackling Coding Challenges](https://github.com/johnivanpuayap/100-days-of-code/tree/main/Day%2058)
