@@ -14,4 +14,4 @@ Upon completing the section which actually took me two days since it is by far t
 
 - Completed Day 58 of 100 Days of Python
 - Finished the [Tindog Landing Page](https://github.com/johnivanpuayap/TindogLandingPage)
-- Solved 2 LeetCode Questions. My solutions can be found here [here](https://github.com/johnivanpuayap/LeetCode75)
+- Solved 2 LeetCode Questions. My solutions can be found [here](https://github.com/johnivanpuayap/LeetCode75)
